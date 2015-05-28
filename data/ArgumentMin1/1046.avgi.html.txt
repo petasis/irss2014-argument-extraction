@@ -1,0 +1,216 @@
+#Ellogon: Document File
+# This is an Auto-generated File. Please DO NOT EDIT.
+# Ellogon CDM version 1.0 - August 1999 - September 2002
+#  This file is used by the "Ellogon" Text Engineering Platform,
+#  and contains an "Ellogon" CDM Document specification...
+#  File Encoding: utf-8
+Encoding::utf-8
+FileFormat::5
+Translation::crlf
+ExternalID::/home/petasis/stasinos/articles/1046.avgi.html.txt
+ID::1046.avgi.html.txt
+AnnotationMaxID::173
+Attributes::22
+Intellitech_NERC_QuickDomain {GDM_STRING {}}
+Intellitech_NERC_Filter {GDM_STRING {}}
+language_greek {GDM_STRING {}}
+Intellitech_NERC_TagWithGrammar {GDM_STRING {}}
+Gazetteer {GDM_STRING {}}
+HTokenizer {GDM_STRING {}}
+language {GDM_STRING hellenic}
+newspaper {GDM_STRING www.avgi.gr}
+Intellitech_NERC_Descriptors {GDM_STRING {}}
+CRF_Tag {GDM_STRING {}}
+Intellitech_NERC_FlattenOverlappingNEs {GDM_STRING {}}
+domain {GDM_STRING telecommunications}
+Intellitech_NERC_Dissambiguator {GDM_STRING {}}
+title {GDM_STRING {Αναστολή του μέτρου της διαθεσιμότητας ζήτησε η Σύγκλητος του ΕΜΠ}}
+Intellitech_NERC_FilterWithContext {GDM_STRING {}}
+TransformAnnotatedData {GDM_STRING {}}
+quick_domain {GDM_STRING_SET {}}
+{Document Handler} {GDM_STRING {Simple: Import Clean Text}}
+HBrill {GDM_STRING {}}
+date {GDM_STRING {24.11.2013    , 21:39}}
+category {GDM_STRING Ελλαδα}
+Intellitech_NERC_TagWithOpenData {GDM_STRING {}}
+
+Annotations::173
+0 token {{0 3}} {{type {GDM_STRING GFW}} {pos {GDM_STRING DDT}}}
+1 token {{4 12}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+2 token {{13 16}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+3 token {{17 23}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJF}}}
+4 token {{24 34}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJF}}}
+5 token {{35 43}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNF}}}
+6 token {{44 47}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+7 token {{48 50}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+8 token {{51 64}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+9 token {{65 69}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+10 token {{70 72}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+11 token {{73 80}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+12 token {{81 84}} {{type {GDM_STRING GLW}} {pos {GDM_STRING PP}}}
+13 token {{85 86}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+14 token {{87 96}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNF}}}
+15 token {{97 100}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+16 token {{101 104}} {{type {GDM_STRING GUW}} {pos {GDM_STRING AB}}}
+17 token {{105 109}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+18 token {{110 112}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+19 token {{113 118}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+20 token {{119 122}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+21 token {{123 132}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+22 token {{133 136}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+23 token {{137 148}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+24 token {{148 149}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+25 token {{150 157}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+26 token {{158 160}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+27 token {{161 163}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+28 token {{164 168}} {{type {GDM_STRING GUW}} {pos {GDM_STRING AB}}}
+29 token {{168 169}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+30 sentence {{0 169}} {{constituents {GDM_STRING_SET {0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29}}}}
+31 token {{170 174}} {{type {GDM_STRING GFW}} {pos {GDM_STRING IN}}}
+32 token {{175 182}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+33 token {{183 196}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+34 token {{197 200}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+35 token {{201 206}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+36 token {{207 210}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IDT}}}
+37 token {{211 215}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+38 token {{216 219}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+39 token {{220 221}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING (}}}
+40 token {{221 223}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+41 token {{224 227}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+42 token {{228 236}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+43 token {{237 240}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+44 token {{241 248}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+45 token {{249 263}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+46 token {{264 267}} {{type {GDM_STRING NUMBER_RANGE}} {pos {GDM_STRING CD}}}
+47 token {{268 279}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJSM}}}
+48 token {{280 289}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+49 token {{290 293}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+50 token {{294 303}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+51 token {{303 304}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+52 token {{305 308}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+53 token {{309 316}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+54 token {{317 319}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+55 token {{320 323}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+56 token {{324 339}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+57 token {{340 351}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+58 token {{352 367}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+59 token {{368 379}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJSM}}}
+60 token {{380 389}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+61 token {{390 403}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+62 token {{404 407}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+63 token {{408 423}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+64 token {{424 434}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+65 token {{434 435}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+66 token {{436 438}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+67 token {{439 450}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+68 token {{451 459}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+69 token {{460 462}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+70 token {{463 475}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+71 token {{475 476}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+72 token {{477 480}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+73 token {{481 484}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+74 token {{485 486}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+75 token {{487 496}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNF}}}
+76 token {{497 498}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING (}}}
+77 token {{498 506}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+78 token {{507 509}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+79 token {{510 518}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+80 token {{519 522}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+81 token {{523 534}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJSF}}}
+82 token {{535 546}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+83 token {{547 550}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+84 token {{551 560}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+85 token {{561 564}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+86 token {{565 570}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IP}}}
+87 token {{571 574}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+88 token {{575 583}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+89 token {{583 584}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+90 token {{584 585}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+91 sentence {{170 585}} {{constituents {GDM_STRING_SET {31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90}}}}
+92 token {{586 597}} {{type {GDM_STRING GFW}} {pos {GDM_STRING VB}}}
+93 token {{598 601}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+94 token {{602 607}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+95 token {{608 610}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+96 token {{611 615}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+97 token {{616 627}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+98 token {{628 629}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+99 token {{630 639}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNF}}}
+100 token {{640 643}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+101 token {{644 657}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+102 token {{658 664}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPSF}}}
+103 token {{665 668}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+104 token {{669 671}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+105 token {{672 683}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBF}}}
+106 token {{684 694}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+107 token {{695 700}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNM}}}
+108 token {{700 701}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+109 sentence {{586 701}} {{constituents {GDM_STRING_SET {92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108}}}}
+110 ne {{101 104}} {{type {GDM_STRING organisation.education}} {id {GDM_STRING 11407}} {s {GDM_STRING w}}}
+111 ne {{439 450}} {{type {GDM_STRING organisation.education}} {id {GDM_STRING 11607}} {s {GDM_STRING w}}}
+112 argument+polarity {{324 434} {436 475} {87 96} {101 104}} {{argument {CDM_SPAN {324 434}}} {claim {CDM_SPAN {436 475}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING -3}} {entity1 {CDM_SPAN {87 96}}} {entity2 {CDM_SPAN {101 104}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+113 argument+polarity {{228 303} {436 475} {87 96} {101 104}} {{argument {CDM_SPAN {228 303}}} {claim {CDM_SPAN {436 475}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING -3}} {entity1 {CDM_SPAN {87 96}}} {entity2 {CDM_SPAN {101 104}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+114 argument+polarity {{498 583} {487 496} {101 104}} {{argument {CDM_SPAN {498 583}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING -3}} {entity1 {CDM_SPAN {487 496}}} {entity2 {CDM_SPAN {101 104}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+115 support_manual {{324 434}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+116 segment {{324 434}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 115}}}
+117 claim_manual {{436 475}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+118 segment {{436 475}} {{type {GDM_STRING claim}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 117}}}
+119 entity_manual {{87 96}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+120 segment {{87 96}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 119}}}
+121 entity_manual {{101 104}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+122 segment {{101 104}} {{type {GDM_STRING entity2}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 121}}}
+123 argument_manual {{324 434} {436 475} {87 96} {101 104}} {{argument {GDM_STRING 115}} {argument_txt {GDM_STRING {αμφισβητούμενης εγκυρότητας δημοσιοποιήσεις ονομαστικών καταλόγων καταργούμενου και μοριοδοτούμενου προσωπικού}}} {claim {GDM_STRING 117}} {claim_txt {GDM_STRING {το Πολυτεχνείο αδυνατεί να λειτουργήσει}}} {entity1 {GDM_STRING 119}} {entity1_txt {GDM_STRING Σύγκλητος}} {entity2 {GDM_STRING 121}} {entity2_txt {GDM_STRING ΕΜΠ}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+124 support_manual {{228 303}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+125 segment {{228 303}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 124}}}
+126 claim_manual {{436 475}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+127 segment {{436 475}} {{type {GDM_STRING claim}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 126}}}
+128 entity_manual {{87 96}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+129 segment {{87 96}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 128}}}
+130 entity_manual {{101 104}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+131 segment {{101 104}} {{type {GDM_STRING entity2}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 130}}}
+132 argument_manual {{228 303} {436 475} {87 96} {101 104}} {{argument {GDM_STRING 124}} {argument_txt {GDM_STRING {εφαρμογή των πράξεων διαθεσιμότητας 399 διοικητικών υπαλλήλων του Ιδρύματος}}} {claim {GDM_STRING 126}} {claim_txt {GDM_STRING {το Πολυτεχνείο αδυνατεί να λειτουργήσει}}} {entity1 {GDM_STRING 128}} {entity1_txt {GDM_STRING Σύγκλητος}} {entity2 {GDM_STRING 130}} {entity2_txt {GDM_STRING ΕΜΠ}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+133 support_manual {{498 583}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+134 segment {{498 583}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 133}}}
+135 entity_manual {{487 496}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+136 segment {{487 496}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 135}}}
+137 entity_manual {{101 104}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+138 segment {{101 104}} {{type {GDM_STRING entity2}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 137}}}
+139 argument_manual {{498 583} {487 496} {101 104}} {{argument {GDM_STRING 133}} {argument_txt {GDM_STRING {αδυνατεί να ανατάξει τις διοικητικές λειτουργίες του Ιδρύματος υπό αυτές τις συνθήκες}}} {claim {GDM_STRING {}}} {claim_txt {GDM_STRING {}}} {entity1 {GDM_STRING 135}} {entity1_txt {GDM_STRING Σύγκλητος}} {entity2 {GDM_STRING 137}} {entity2_txt {GDM_STRING ΕΜΠ}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+140 lookup {{0 3}} {{type {GDM_STRING cue}}}
+141 lookup {{44 47}} {{type {GDM_STRING cue}}}
+142 lookup {{48 50}} {{type {GDM_STRING cue}}}
+143 lookup {{70 72}} {{type {GDM_STRING cue}}}
+144 lookup {{85 86}} {{type {GDM_STRING cue}}}
+145 lookup {{105 109}} {{type {GDM_STRING cue}}}
+146 lookup {{110 112}} {{type {GDM_STRING cue}}}
+147 lookup {{158 160}} {{type {GDM_STRING cue}}}
+148 lookup {{161 163}} {{type {GDM_STRING cue}}}
+149 lookup {{197 200}} {{type {GDM_STRING cue}}}
+150 lookup {{201 206}} {{type {GDM_STRING cue}}}
+151 lookup {{207 210}} {{type {GDM_STRING cue}}}
+152 lookup {{216 219}} {{type {GDM_STRING cue}}}
+153 lookup {{221 223}} {{type {GDM_STRING cue}}}
+154 lookup {{224 227}} {{type {GDM_STRING cue}}}
+155 lookup {{305 308}} {{type {GDM_STRING cue}}}
+156 lookup {{309 316}} {{type {GDM_STRING cue}}}
+157 lookup {{317 319}} {{type {GDM_STRING cue}}}
+158 lookup {{320 323}} {{type {GDM_STRING cue}}}
+159 lookup {{404 407}} {{type {GDM_STRING cue}}}
+160 lookup {{436 438}} {{type {GDM_STRING cue}}}
+161 lookup {{477 480}} {{type {GDM_STRING cue}}}
+162 lookup {{481 484}} {{type {GDM_STRING cue}}}
+163 lookup {{485 486}} {{type {GDM_STRING cue}}}
+164 lookup {{519 522}} {{type {GDM_STRING cue}}}
+165 lookup {{561 583}} {{type {GDM_STRING cue}}}
+166 lookup {{598 601}} {{type {GDM_STRING cue}}}
+167 lookup {{608 610}} {{type {GDM_STRING cue}}}
+168 lookup {{628 629}} {{type {GDM_STRING cue}}}
+169 lookup {{665 668}} {{type {GDM_STRING cue}}}
+170 lookup {{669 671}} {{type {GDM_STRING cue}}}
+171 lookup {{460 462}} {{type {GDM_STRING cue}}}
+172 lookup {{507 509}} {{type {GDM_STRING cue}}}
+
+RawData::701
+Την αναστολή της Κοινής Υπουργικής Απόφασης για τη διαθεσιμότητα ζητά με απόφασή της η Σύγκλητος του ΕΜΠ μετά το πέρας της σημερινής της συνεδρίασης, σύμφωνα με το ΑΜΠΕ.
+Στην απόφαση επισημαίνεται για ακόμη μια φορά ότι «με την εφαρμογή των πράξεων διαθεσιμότητας 399 διοικητικών υπαλλήλων του Ιδρύματος, και μάλιστα με τις αμφισβητούμενης εγκυρότητας δημοσιοποιήσεις ονομαστικών καταλόγων καταργούμενου και μοριοδοτούμενου προσωπικού, το Πολυτεχνείο αδυνατεί να λειτουργήσει» και ότι η Σύγκλητος «αδυνατεί να ανατάξει τις διοικητικές λειτουργίες του Ιδρύματος υπό αυτές τις συνθήκες».
+Σημειώνεται ότι αύριο το πρωί συνεδριάζει η Σύγκλητος του Πανεπιστημίου Αθηνών ενώ θα ακολουθήσει συνέντευξη Τύπου.
+## - End of File -

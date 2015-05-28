@@ -1,0 +1,154 @@
+#Ellogon: Document File
+# This is an Auto-generated File. Please DO NOT EDIT.
+# Ellogon CDM version 1.0 - August 1999 - September 2002
+#  This file is used by the "Ellogon" Text Engineering Platform,
+#  and contains an "Ellogon" CDM Document specification...
+#  File Encoding: utf-8
+Encoding::utf-8
+FileFormat::5
+Translation::crlf
+ExternalID::/home/petasis/stasinos/articles/1126.avgi.html.txt
+ID::1126.avgi.html.txt
+AnnotationMaxID::112
+Attributes::22
+Intellitech_NERC_QuickDomain {GDM_STRING {}}
+Intellitech_NERC_Filter {GDM_STRING {}}
+language_greek {GDM_STRING {}}
+Intellitech_NERC_TagWithGrammar {GDM_STRING {}}
+Gazetteer {GDM_STRING {}}
+HTokenizer {GDM_STRING {}}
+language {GDM_STRING hellenic}
+newspaper {GDM_STRING www.avgi.gr}
+Intellitech_NERC_Descriptors {GDM_STRING {}}
+CRF_Tag {GDM_STRING {}}
+Intellitech_NERC_FlattenOverlappingNEs {GDM_STRING {}}
+domain {GDM_STRING telecommunications}
+Intellitech_NERC_Dissambiguator {GDM_STRING {}}
+title {GDM_STRING {Ανοιχτή Πόλη: Εγκαίνια του εκλογικού περιπτέρου στα Προπύλαια την Κυριακή}}
+Intellitech_NERC_FilterWithContext {GDM_STRING {}}
+TransformAnnotatedData {GDM_STRING {}}
+quick_domain {GDM_STRING_SET {}}
+{Document Handler} {GDM_STRING {Simple: Import Clean Text}}
+HBrill {GDM_STRING {}}
+date {GDM_STRING {02.05.2014    , 14:02}}
+category {GDM_STRING Ελλαδα}
+Intellitech_NERC_TagWithOpenData {GDM_STRING {}}
+
+Annotations::112
+0 token {{0 2}} {{type {GDM_STRING GFW}} {pos {GDM_STRING DDT}}}
+1 token {{3 11}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+2 token {{12 15}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+3 token {{16 25}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+4 token {{26 29}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+5 token {{30 39}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPSN}}}
+6 token {{40 51}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+7 token {{52 53}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+8 token {{54 61}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJF}}}
+9 token {{62 66}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+10 token {{67 70}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+11 token {{71 78}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}} {descriptor {GDM_STRING PFN}}}
+12 token {{79 80}} {{type {GDM_STRING NUMBER_RANGE}} {pos {GDM_STRING CD}}}
+13 token {{81 86}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNM}}}
+14 token {{86 87}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+15 token {{88 92}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+16 token {{93 94}} {{type {GDM_STRING NUMBER_RANGE}} {pos {GDM_STRING CD}}}
+17 token {{95 97}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+18 token {{98 103}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+19 token {{103 104}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+20 sentence {{0 104}} {{constituents {GDM_STRING_SET {0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19}}}}
+21 token {{105 107}} {{type {GDM_STRING GFW}} {pos {GDM_STRING RP}}}
+22 token {{108 115}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBF}}}
+23 token {{116 117}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+24 token {{118 127}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJM}}}
+25 token {{128 136}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+26 token {{137 145}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPSM}}}
+27 token {{146 153}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}} {descriptor {GDM_STRING PFN}}}
+28 token {{154 166}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+29 token {{166 167}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+30 sentence {{105 167}} {{constituents {GDM_STRING_SET {21 22 23 24 25 26 27 28 29}}}}
+31 token {{168 169}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING (}}}
+32 token {{169 173}} {{type {GDM_STRING GFW}} {pos {GDM_STRING CC}}}
+33 token {{174 177}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IDT}}}
+34 token {{178 182}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+35 token {{183 189}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBPD}}}
+36 token {{189 190}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+37 sentence {{168 190}} {{constituents {GDM_STRING_SET {31 32 33 34 35 36}}}}
+38 token {{191 200}} {{type {GDM_STRING GFW}} {pos {GDM_STRING VBS}}}
+39 token {{201 204}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+40 token {{205 210}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+41 token {{211 215}} {{type {GDM_STRING GUW}} {pos {GDM_STRING RB}}}
+42 token {{215 216}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING !}}}
+43 sentence {{191 216}} {{constituents {GDM_STRING_SET {38 39 40 41 42}}}}
+44 token {{216 217}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING (}}}
+45 token {{218 225}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+46 token {{226 227}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+47 token {{228 236}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+48 token {{237 243}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+49 token {{244 247}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+50 token {{248 255}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+51 token {{256 259}} {{type {GDM_STRING ABBREV}} {pos {GDM_STRING PP}}}
+52 token {{259 260}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+53 sentence {{216 260}} {{constituents {GDM_STRING_SET {44 45 46 47 48 49 50 51 52}}}}
+54 token {{261 263}} {{type {GDM_STRING GFW}} {pos {GDM_STRING RP}}}
+55 token {{264 275}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBF}}}
+56 token {{276 281}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+57 token {{282 284}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+58 token {{285 288}} {{type {GDM_STRING EW}} {pos {GDM_STRING FW}}}
+59 token {{289 293}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+60 token {{294 304}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+61 token {{305 308}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+62 token {{309 321}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJM}}}
+63 token {{322 329}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+64 token {{330 331}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+65 token {{331 334}} {{type {GDM_STRING GFW}} {pos {GDM_STRING IN}}}
+66 token {{335 342}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJN}}}
+67 token {{343 349}} {{type {GDM_STRING NUMBER}} {pos {GDM_STRING CD}}}
+68 token {{350 356}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}} {descriptor {GDM_STRING PFN}}}
+69 token {{357 369}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+70 token {{369 370}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+71 token {{371 377}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}} {descriptor {GDM_STRING PFN}}}
+72 token {{378 382}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNM}}}
+73 token {{383 386}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+74 token {{387 391}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}} {descriptor {GDM_STRING PFN}}}
+75 token {{392 398}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNM}}}
+76 token {{398 399}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+77 sentence {{261 399}} {{constituents {GDM_STRING_SET {54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76}}}}
+78 ne {{350 369}} {{type {GDM_STRING person}} {s {GDM_STRING g}}}
+79 ne {{371 382}} {{type {GDM_STRING person}} {s {GDM_STRING g}}}
+80 ne {{387 398}} {{type {GDM_STRING person}} {s {GDM_STRING g}}}
+81 ne {{54 66}} {{type {GDM_STRING organisation.media}} {id {GDM_STRING 11896}} {s {GDM_STRING w}}}
+82 ne {{205 210}} {{type {GDM_STRING {location.city location.suburb}}} {id {GDM_STRING {2310 2310}}} {s {GDM_STRING w}}}
+83 argument+polarity {{169 189} {146 166} {54 66}} {{argument {CDM_SPAN {169 189}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING +3}} {entity1 {CDM_SPAN {146 166}}} {entity2 {CDM_SPAN {54 66}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+84 argument+polarity {{191 215} {146 166} {54 66}} {{argument {CDM_SPAN {191 215}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING +2}} {entity1 {CDM_SPAN {146 166}}} {entity2 {CDM_SPAN {54 66}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+85 support_manual {{169 189}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+86 segment {{169 189}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 85}}}
+87 entity_manual {{146 166}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+88 segment {{146 166}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 87}}}
+89 entity_manual {{54 66}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+90 segment {{54 66}} {{type {GDM_STRING entity2}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 89}}}
+91 argument_manual {{169 189} {146 166} {54 66}} {{argument {GDM_STRING 85}} {argument_txt {GDM_STRING {Ούτε μία μέρα χαμένη}}} {claim {GDM_STRING {}}} {claim_txt {GDM_STRING {}}} {entity1 {GDM_STRING 87}} {entity1_txt {GDM_STRING {Γαβριήλ Σακελλαρίδης}}} {entity2 {GDM_STRING 89}} {entity2_txt {GDM_STRING {Ανοιχτή Πόλη}}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+92 support_manual {{191 215}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+93 segment {{191 215}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 92}}}
+94 entity_manual {{146 166}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+95 segment {{146 166}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 94}}}
+96 entity_manual {{54 66}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+97 segment {{54 66}} {{type {GDM_STRING entity2}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 96}}}
+98 argument_manual {{191 215} {146 166} {54 66}} {{argument {GDM_STRING 92}} {argument_txt {GDM_STRING {Αλλάζουμε την Αθήνα ΤΩΡΑ}}} {claim {GDM_STRING {}}} {claim_txt {GDM_STRING {}}} {entity1 {GDM_STRING 94}} {entity1_txt {GDM_STRING {Γαβριήλ Σακελλαρίδης}}} {entity2 {GDM_STRING 96}} {entity2_txt {GDM_STRING {Ανοιχτή Πόλη}}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+99 lookup {{0 2}} {{type {GDM_STRING cue}}}
+100 lookup {{52 53}} {{type {GDM_STRING cue}}}
+101 lookup {{67 70}} {{type {GDM_STRING cue}}}
+102 lookup {{95 97}} {{type {GDM_STRING cue}}}
+103 lookup {{105 107}} {{type {GDM_STRING cue}}}
+104 lookup {{169 173}} {{type {GDM_STRING cue}}}
+105 lookup {{201 204}} {{type {GDM_STRING cue}}}
+106 lookup {{226 227}} {{type {GDM_STRING cue}}}
+107 lookup {{244 247}} {{type {GDM_STRING cue}}}
+108 lookup {{261 263}} {{type {GDM_STRING cue}}}
+109 lookup {{282 284}} {{type {GDM_STRING cue}}}
+110 lookup {{331 334}} {{type {GDM_STRING cue}}}
+111 lookup {{383 386}} {{type {GDM_STRING cue}}}
+
+RawData::399
+Το εκλογικό της περίπτερο στα Προπύλαια εγκαινιάζει η Ανοιχτή Πόλη την Κυριακή 4 Μαΐου, στις 8 το βράδυ. Θα μιλήσει ο υποψήφιος δήμαρχος Αθηναίων Γαβριήλ Σακελλαρίδης.
+"Ούτε μία μέρα χαμένη. Αλλάζουμε την Αθήνα ΤΩΡΑ!" τονίζει η δημοτική κίνηση στο κάλεσμά της. Θα ακολουθήσει πάρτυ με DJs τους παραγωγούς του ραδιοφωνικού σταθμού "Στο Κόκκινο 105.5" Θάλεια Καραμολέγκου, Θανάση Μήνα και Νίκο Σβέρκο.
+## - End of File -

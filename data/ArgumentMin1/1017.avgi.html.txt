@@ -1,0 +1,138 @@
+#Ellogon: Document File
+# This is an Auto-generated File. Please DO NOT EDIT.
+# Ellogon CDM version 1.0 - August 1999 - September 2002
+#  This file is used by the "Ellogon" Text Engineering Platform,
+#  and contains an "Ellogon" CDM Document specification...
+#  File Encoding: utf-8
+Encoding::utf-8
+FileFormat::5
+Translation::crlf
+ExternalID::/home/petasis/stasinos/articles/1017.avgi.html.txt
+ID::1017.avgi.html.txt
+AnnotationMaxID::96
+Attributes::22
+Intellitech_NERC_QuickDomain {GDM_STRING {}}
+Intellitech_NERC_Filter {GDM_STRING {}}
+language_greek {GDM_STRING {}}
+Intellitech_NERC_TagWithGrammar {GDM_STRING {}}
+Gazetteer {GDM_STRING {}}
+HTokenizer {GDM_STRING {}}
+language {GDM_STRING hellenic}
+newspaper {GDM_STRING www.avgi.gr}
+Intellitech_NERC_Descriptors {GDM_STRING {}}
+CRF_Tag {GDM_STRING {}}
+Intellitech_NERC_FlattenOverlappingNEs {GDM_STRING {}}
+domain {GDM_STRING telecommunications}
+Intellitech_NERC_Dissambiguator {GDM_STRING {}}
+title {GDM_STRING {Ανάληψη ευθύνης από "Πυρήνες της Φωτιάς"}}
+Intellitech_NERC_FilterWithContext {GDM_STRING {}}
+TransformAnnotatedData {GDM_STRING {}}
+quick_domain {GDM_STRING_SET {}}
+{Document Handler} {GDM_STRING {Simple: Import Clean Text}}
+HBrill {GDM_STRING {}}
+date {GDM_STRING 03.05.2014}
+category {GDM_STRING Ελλαδα}
+Intellitech_NERC_TagWithOpenData {GDM_STRING {}}
+
+Annotations::96
+0 token {{0 1}} {{type {GDM_STRING GUW}} {pos {GDM_STRING DDT}}}
+1 token {{2 11}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNF}}}
+2 token {{12 19}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNSM}}}
+3 token {{20 23}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+4 token {{24 30}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNF}}}
+5 token {{31 38}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+6 token {{39 42}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+7 token {{43 49}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+8 token {{50 53}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+9 token {{54 57}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+10 token {{58 66}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+11 token {{67 79}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+12 token {{80 87}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+13 token {{88 90}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+14 token {{91 100}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+15 token {{101 104}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+16 token {{105 115}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNM}}}
+17 token {{116 121}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+18 token {{122 127}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+19 token {{128 131}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+20 token {{132 141}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+21 token {{142 147}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+22 token {{148 150}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+23 token {{151 158}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+24 token {{159 162}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+25 token {{163 173}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+26 token {{174 177}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+27 token {{178 187}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+28 token {{187 188}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+29 sentence {{0 188}} {{constituents {GDM_STRING_SET {0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28}}}}
+30 token {{189 193}} {{type {GDM_STRING GFW}} {pos {GDM_STRING RB}}}
+31 token {{194 203}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+32 token {{203 204}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+33 token {{205 213}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+34 token {{214 216}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+35 token {{217 229}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+36 token {{230 235}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+37 token {{236 241}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+38 token {{242 243}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING (}}}
+39 token {{243 248}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+40 token {{249 251}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+41 token {{252 257}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+42 token {{258 262}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+43 token {{263 275}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+44 token {{276 279}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+45 token {{280 291}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+46 token {{292 293}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+47 token {{294 305}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+48 token {{306 310}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+49 token {{311 317}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+50 token {{318 322}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+51 token {{323 332}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+52 token {{333 338}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+53 token {{339 350}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJSM}}}
+54 token {{351 358}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+55 token {{359 362}} {{type {GDM_STRING GLW}} {pos {GDM_STRING PP}}}
+56 token {{362 363}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+57 token {{364 368}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+58 token {{369 376}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+59 token {{377 385}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+60 token {{385 386}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+61 token {{386 387}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+62 sentence {{189 387}} {{constituents {GDM_STRING_SET {30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61}}}}
+63 token {{388 392}} {{type {GDM_STRING ABBREV}} {pos {GDM_STRING AB}}}
+64 token {{393 398}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+65 sentence {{388 398}} {{constituents {GDM_STRING_SET {63 64}}}}
+66 ne {{377 385}} {{type {GDM_STRING location.town}} {id {GDM_STRING 7560}} {s {GDM_STRING w}}}
+67 argument+polarity {{243 385} {205 235} {2 30} {105 127} {306 317}} {{argument {CDM_SPAN {243 385}}} {claim {CDM_SPAN {205 235}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING -2}} {entity1 {CDM_SPAN {2 30}}} {entity2 {CDM_SPAN {105 127}}} {entity3 {CDM_SPAN {306 317}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+68 support_manual {{243 385}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+69 segment {{243 385}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 68}}}
+70 claim_manual {{205 235}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+71 segment {{205 235}} {{type {GDM_STRING claim}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 70}}}
+72 entity_manual {{2 30}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+73 segment {{2 30}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 72}}}
+74 entity_manual {{105 127}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+75 segment {{105 127}} {{type {GDM_STRING entity2}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 74}}}
+76 entity_manual {{306 317}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+77 segment {{306 317}} {{type {GDM_STRING entity3}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 76}}}
+78 argument_manual {{243 385} {205 235} {2 30} {105 127} {306 317}} {{argument {GDM_STRING 68}} {argument_txt {GDM_STRING {είναι το μέρος όπου ξυλοκοπήθηκε και βασανίστηκε ο κρατούμενος Ιλία Καρέλι πριν παραδοθεί στους τελευταίους δήμιούς του, στις φυλακές Νιγρίτας}}} {claim {GDM_STRING 70}} {claim_txt {GDM_STRING {επέλεξαν το συγκεκριμένο τμήμα}}} {entity1 {GDM_STRING 72}} {entity1_txt {GDM_STRING {Συνωμοσία Πυρήνων της Φωτιάς}}} {entity2 {GDM_STRING 74}} {entity2_txt {GDM_STRING {Αστυνομικό Τμήμα Ιτέας}}} {entity3 {GDM_STRING 76}} {entity3_txt {GDM_STRING {Ιλία Καρέλι}}}}
+79 lookup {{0 1}} {{type {GDM_STRING cue}}}
+80 lookup {{39 42}} {{type {GDM_STRING cue}}}
+81 lookup {{50 53}} {{type {GDM_STRING cue}}}
+82 lookup {{54 57}} {{type {GDM_STRING cue}}}
+83 lookup {{88 90}} {{type {GDM_STRING cue}}}
+84 lookup {{101 104}} {{type {GDM_STRING cue}}}
+85 lookup {{128 131}} {{type {GDM_STRING cue}}}
+86 lookup {{148 150}} {{type {GDM_STRING cue}}}
+87 lookup {{159 162}} {{type {GDM_STRING cue}}}
+88 lookup {{174 177}} {{type {GDM_STRING cue}}}
+89 lookup {{214 216}} {{type {GDM_STRING cue}}}
+90 lookup {{236 241}} {{type {GDM_STRING cue}}}
+91 lookup {{243 248}} {{type {GDM_STRING cue}}}
+92 lookup {{249 251}} {{type {GDM_STRING cue}}}
+93 lookup {{276 279}} {{type {GDM_STRING cue}}}
+94 lookup {{318 322}} {{type {GDM_STRING cue}}}
+95 lookup {{189 193}} {{type {GDM_STRING cue}}}
+
+RawData::398
+Η Συνωμοσία Πυρήνων της Φωτιάς ανέλαβε την ευθύνη για την αποστολή παγιδευμένου βιβλίου με εκρηκτικά στο Αστυνομικό Τμήμα Ιτέας την περασμένη Τρίτη με κείμενο που αναρτήθηκε στο Διαδίκτυο. Όπως αναφέρουν, επέλεξαν το συγκεκριμένο τμήμα γιατί "είναι το μέρος όπου ξυλοκοπήθηκε και βασανίστηκε ο κρατούμενος Ιλία Καρέλι πριν παραδοθεί στους τελευταίους δήμιούς του, στις φυλακές Νιγρίτας".
+Α.Τ. Ιτέας
+## - End of File -

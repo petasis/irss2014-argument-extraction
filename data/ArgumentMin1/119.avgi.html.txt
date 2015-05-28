@@ -1,0 +1,227 @@
+#Ellogon: Document File
+# This is an Auto-generated File. Please DO NOT EDIT.
+# Ellogon CDM version 1.0 - August 1999 - September 2002
+#  This file is used by the "Ellogon" Text Engineering Platform,
+#  and contains an "Ellogon" CDM Document specification...
+#  File Encoding: utf-8
+Encoding::utf-8
+FileFormat::5
+Translation::crlf
+ExternalID::/home/petasis/stasinos/articles/119.avgi.html.txt
+ID::119.avgi.html.txt
+AnnotationMaxID::185
+Attributes::22
+Intellitech_NERC_QuickDomain {GDM_STRING {}}
+Intellitech_NERC_Filter {GDM_STRING {}}
+language_greek {GDM_STRING {}}
+Intellitech_NERC_TagWithGrammar {GDM_STRING {}}
+Gazetteer {GDM_STRING {}}
+HTokenizer {GDM_STRING {}}
+language {GDM_STRING hellenic}
+newspaper {GDM_STRING www.avgi.gr}
+Intellitech_NERC_Descriptors {GDM_STRING {}}
+CRF_Tag {GDM_STRING {}}
+Intellitech_NERC_FlattenOverlappingNEs {GDM_STRING {}}
+domain {GDM_STRING telecommunications}
+Intellitech_NERC_Dissambiguator {GDM_STRING {}}
+Intellitech_NERC_FilterWithContext {GDM_STRING {}}
+title {GDM_STRING {"Εκτός" και οι Τσακίρη - Αγγέλης...}}
+TransformAnnotatedData {GDM_STRING {}}
+quick_domain {GDM_STRING_SET {}}
+HBrill {GDM_STRING {}}
+{Document Handler} {GDM_STRING {Simple: Import Clean Text}}
+category {GDM_STRING Αθλητισμος}
+date {GDM_STRING 12.02.2014}
+Intellitech_NERC_TagWithOpenData {GDM_STRING {}}
+
+Annotations::185
+0 token {{0 1}} {{type {GDM_STRING GUW}} {pos {GDM_STRING DDT}}}
+1 token {{2 11}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNF}} {descriptor {GDM_STRING PFN}}}
+2 token {{12 19}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNM}}}
+3 token {{20 23}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+4 token {{24 25}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+5 token {{26 35}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}} {descriptor {GDM_STRING PFN}}}
+6 token {{36 43}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+7 token {{44 47}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+8 token {{48 57}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+9 token {{58 60}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+10 token {{61 69}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+11 token {{70 74}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+12 token {{75 80}} {{type {GDM_STRING SPECIAL}} {pos {GDM_STRING NNPF}}}
+13 token {{81 84}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+14 token {{85 96}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSN}}}
+15 token {{97 101}} {{type {GDM_STRING GLW}} {pos {GDM_STRING PP}}}
+16 token {{102 107}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+17 token {{108 113}} {{type {GDM_STRING SPECIAL}} {pos {GDM_STRING CD}}}
+18 token {{114 125}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJSM}}}
+19 token {{126 137}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJSM}}}
+20 token {{138 144}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNSM}}}
+21 token {{144 145}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+22 token {{146 148}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+23 token {{149 159}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+24 token {{160 162}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+25 token {{163 175}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+26 token {{176 179}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+27 token {{180 183}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+28 token {{184 191}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJM}}}
+29 token {{192 196}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+30 token {{196 197}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+31 sentence {{0 197}} {{constituents {GDM_STRING_SET {0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30}}}}
+32 token {{198 210}} {{type {GDM_STRING GFW}} {pos {GDM_STRING RB}}}
+33 token {{211 212}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+34 token {{213 222}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNF}} {descriptor {GDM_STRING PFN}}}
+35 token {{223 230}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNM}}}
+36 token {{230 231}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+37 token {{232 235}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+38 token {{236 240}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+39 token {{241 244}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+40 token {{245 246}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+41 token {{247 258}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+42 token {{259 262}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+43 token {{263 272}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+44 token {{273 282}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+45 token {{282 283}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+46 token {{284 293}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+47 token {{294 297}} {{type {GDM_STRING SPECIAL}} {pos {GDM_STRING CD}}}
+48 token {{298 300}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+49 token {{301 307}} {{type {GDM_STRING NUMBER}} {pos {GDM_STRING CD}}}
+50 token {{308 315}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+51 token {{316 319}} {{type {GDM_STRING EUW}} {pos {GDM_STRING FW}}}
+52 token {{320 323}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+53 token {{324 330}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+54 token {{331 338}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+55 token {{339 341}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+56 token {{342 344}} {{type {GDM_STRING NUMBER_RANGE}} {pos {GDM_STRING CD}}}
+57 token {{345 352}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+58 token {{352 353}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+59 sentence {{198 353}} {{constituents {GDM_STRING_SET {32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58}}}}
+60 token {{354 355}} {{type {GDM_STRING GUW}} {pos {GDM_STRING DDT}}}
+61 token {{356 365}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}} {descriptor {GDM_STRING PFN}}}
+62 token {{366 373}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+63 token {{374 382}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+64 token {{383 386}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+65 token {{387 390}} {{type {GDM_STRING SPECIAL}} {pos {GDM_STRING CD}}}
+66 token {{391 395}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+67 token {{396 398}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+68 token {{399 405}} {{type {GDM_STRING NUMBER}} {pos {GDM_STRING CD}}}
+69 token {{406 413}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+70 token {{414 417}} {{type {GDM_STRING EUW}} {pos {GDM_STRING FW}}}
+71 token {{417 418}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+72 token {{419 425}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+73 token {{426 429}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+74 token {{430 436}} {{type {GDM_STRING ABBREV}} {pos {GDM_STRING NNN}}}
+75 token {{436 437}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+76 sentence {{354 437}} {{constituents {GDM_STRING_SET {60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75}}}}
+77 token {{438 439}} {{type {GDM_STRING GUW}} {pos {GDM_STRING DDT}}}
+78 token {{440 448}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+79 token {{449 457}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+80 token {{458 464}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+81 token {{465 478}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+82 token {{479 482}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+83 token {{483 486}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+84 token {{487 495}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+85 token {{496 499}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+86 token {{500 507}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+87 token {{508 514}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+88 token {{515 522}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+89 token {{522 523}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+90 token {{524 528}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+91 token {{529 532}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+92 token {{533 535}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+93 token {{536 539}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CD}}}
+94 token {{540 546}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+95 token {{547 554}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+96 token {{555 560}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+97 token {{561 564}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+98 token {{565 577}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+99 token {{578 586}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+100 token {{587 590}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+101 token {{591 598}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+102 token {{599 609}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+103 token {{610 612}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+104 token {{613 621}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+105 token {{622 632}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+106 token {{632 633}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+107 sentence {{438 633}} {{constituents {GDM_STRING_SET {77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106}}}}
+108 token {{634 635}} {{type {GDM_STRING GUW}} {pos {GDM_STRING DDT}}}
+109 token {{636 643}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+110 token {{644 652}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+111 token {{653 662}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+112 token {{663 668}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+113 token {{669 672}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+114 token {{673 682}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}} {descriptor {GDM_STRING PFN}}}
+115 token {{683 685}} {{type {GDM_STRING NUMBER_RANGE}} {pos {GDM_STRING CD}}}
+116 token {{686 697}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNM}}}
+117 token {{697 698}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+118 token {{699 701}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+119 token {{702 705}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+120 token {{706 715}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}} {descriptor {GDM_STRING PFN}}}
+121 token {{716 722}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNM}}}
+122 token {{723 725}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+123 token {{726 736}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+124 token {{737 740}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+125 token {{741 749}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+126 token {{749 750}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+127 sentence {{634 750}} {{constituents {GDM_STRING_SET {108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126}}}}
+128 ne {{2 19}} {{type {GDM_STRING person}} {s {GDM_STRING g}}}
+129 ne {{26 43}} {{type {GDM_STRING person}} {s {GDM_STRING g}}}
+130 ne {{213 230}} {{type {GDM_STRING person}} {s {GDM_STRING g}}}
+131 ne {{356 373}} {{type {GDM_STRING person}} {s {GDM_STRING g}}}
+132 ne {{706 722}} {{type {GDM_STRING person}} {s {GDM_STRING g}}}
+133 ne {{247 258}} {{type {GDM_STRING person.military_officer}} {id {GDM_STRING 25039}} {s {GDM_STRING w}}}
+134 argument+polarity {{44 144} {2 19} {26 43}} {{argument {CDM_SPAN {44 144}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING -1}} {entity1 {CDM_SPAN {2 19}}} {entity2 {CDM_SPAN {26 43}}} {modified_by_user {GDM_STRING imktks@77.49.90.96}}}
+135 argument+polarity {{529 632} {458 522} {440 457}} {{argument {CDM_SPAN {529 632}}} {claim {CDM_SPAN {458 522}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING +2}} {entity1 {CDM_SPAN {440 457}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+136 support_manual {{44 144}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+137 segment {{44 144}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 136}}}
+138 entity_manual {{2 19}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+139 segment {{2 19}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 138}}}
+140 entity_manual {{26 43}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+141 segment {{26 43}} {{type {GDM_STRING entity2}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 140}}}
+142 argument_manual {{44 144} {2 19} {26 43}} {{argument {GDM_STRING 136}} {argument_txt {GDM_STRING {δεν κατάφεραν να περάσουν στην 30άδα των αγωνισμάτων τους στους 22ους Χειμερινούς Ολυμπιακούς Αγώνες}}} {claim {GDM_STRING {}}} {claim_txt {GDM_STRING {}}} {entity1 {GDM_STRING 138}} {entity1_txt {GDM_STRING {Παναγιώτα Τσακίρη}}} {entity2 {GDM_STRING 140}} {entity2_txt {GDM_STRING {Απόστολος Αγγέλης}}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+143 support_manual {{529 632}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+144 segment {{529 632}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 143}}}
+145 claim_manual {{458 522}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+146 segment {{458 522}} {{type {GDM_STRING claim}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 145}}}
+147 entity_manual {{440 457}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+148 segment {{440 457}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 147}}}
+149 argument_manual {{529 632} {458 522} {440 457}} {{argument {GDM_STRING 143}} {argument_txt {GDM_STRING {και οι δύο έκαναν ατομικό ρεκόρ στο συγκεκριμένο αγώνισμα και νίκησαν αντιπάλους με καλύτερη βαθμολογία}}} {claim {GDM_STRING 145}} {claim_txt {GDM_STRING {έμεινε ευχαριστημένη από την παρουσία των αθλητών δρόμων αντοχής}}} {entity1 {GDM_STRING 147}} {entity1_txt {GDM_STRING {ελληνική αποστολή}}} {entity2 {GDM_STRING {}}} {entity2_txt {GDM_STRING {}}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+150 lookup {{0 1}} {{type {GDM_STRING cue}}}
+151 lookup {{20 23}} {{type {GDM_STRING cue}}}
+152 lookup {{44 47}} {{type {GDM_STRING cue}}}
+153 lookup {{146 159}} {{type {GDM_STRING cue}}}
+154 lookup {{176 179}} {{type {GDM_STRING cue}}}
+155 lookup {{184 191}} {{type {GDM_STRING cue}}}
+156 lookup {{198 210}} {{type {GDM_STRING cue}}}
+157 lookup {{211 212}} {{type {GDM_STRING cue}}}
+158 lookup {{232 235}} {{type {GDM_STRING cue}}}
+159 lookup {{241 244}} {{type {GDM_STRING cue}}}
+160 lookup {{245 246}} {{type {GDM_STRING cue}}}
+161 lookup {{298 300}} {{type {GDM_STRING cue}}}
+162 lookup {{320 323}} {{type {GDM_STRING cue}}}
+163 lookup {{331 338}} {{type {GDM_STRING cue}}}
+164 lookup {{339 341}} {{type {GDM_STRING cue}}}
+165 lookup {{383 386}} {{type {GDM_STRING cue}}}
+166 lookup {{396 398}} {{type {GDM_STRING cue}}}
+167 lookup {{419 425}} {{type {GDM_STRING cue}}}
+168 lookup {{426 429}} {{type {GDM_STRING cue}}}
+169 lookup {{438 439}} {{type {GDM_STRING cue}}}
+170 lookup {{479 482}} {{type {GDM_STRING cue}}}
+171 lookup {{483 486}} {{type {GDM_STRING cue}}}
+172 lookup {{524 528}} {{type {GDM_STRING cue}}}
+173 lookup {{529 532}} {{type {GDM_STRING cue}}}
+174 lookup {{561 564}} {{type {GDM_STRING cue}}}
+175 lookup {{587 590}} {{type {GDM_STRING cue}}}
+176 lookup {{610 612}} {{type {GDM_STRING cue}}}
+177 lookup {{634 635}} {{type {GDM_STRING cue}}}
+178 lookup {{663 668}} {{type {GDM_STRING cue}}}
+179 lookup {{669 672}} {{type {GDM_STRING cue}}}
+180 lookup {{699 701}} {{type {GDM_STRING cue}}}
+181 lookup {{737 740}} {{type {GDM_STRING cue}}}
+182 lookup {{58 60}} {{type {GDM_STRING cue}}}
+183 lookup {{160 162}} {{type {GDM_STRING cue}}}
+184 lookup {{723 725}} {{type {GDM_STRING cue}}}
+
+RawData::750
+Η Παναγιώτα Τσακίρη και ο Απόστολος Αγγέλης δεν κατάφεραν να περάσουν στην 30άδα των αγωνισμάτων τους στους 22ους Χειμερινούς Ολυμπιακούς Αγώνες, με αποτέλεσμα να αποκλειστούν από τον επόμενο γύρο. Συγκεκριμένα η Παναγιώτα Τσακίρη, που ήταν και η σημαιοφόρος της ελληνικής αποστολής, τερμάτισε 65η με 242,10 βαθμούς FSI στο σπριντ ανάμεσα σε 85 αθλητές. Ο Απόστολος Αγγέλης κατέλαβε την 74η θέση με 193,06 βαθμούς FIS, επίσης στο σπριντ.
+Η ελληνική αποστολή έμεινε ευχαριστημένη από την παρουσία των αθλητών δρόμων αντοχής, αφού και οι δύο έκαναν ατομικό ρεκόρ στο συγκεκριμένο αγώνισμα και νίκησαν αντιπάλους με καλύτερη βαθμολογία. Η επόμενη ελληνική συμμετοχή είναι την Παρασκευή 14 Φεβρουαρίου, με τον Αλέξανδρο Κεφάλα να αγωνίζεται στο σκέλετον.
+## - End of File -

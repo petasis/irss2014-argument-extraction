@@ -1,0 +1,207 @@
+#Ellogon: Document File
+# This is an Auto-generated File. Please DO NOT EDIT.
+# Ellogon CDM version 1.0 - August 1999 - September 2002
+#  This file is used by the "Ellogon" Text Engineering Platform,
+#  and contains an "Ellogon" CDM Document specification...
+#  File Encoding: utf-8
+Encoding::utf-8
+FileFormat::5
+Translation::crlf
+ExternalID::/home/petasis/stasinos/articles/1030.avgi.html.txt
+ID::1030.avgi.html.txt
+AnnotationMaxID::203
+Attributes::22
+Intellitech_NERC_QuickDomain {GDM_STRING {}}
+Intellitech_NERC_Filter {GDM_STRING {}}
+language_greek {GDM_STRING {}}
+Intellitech_NERC_TagWithGrammar {GDM_STRING {}}
+Gazetteer {GDM_STRING {}}
+HTokenizer {GDM_STRING {}}
+language {GDM_STRING hellenic}
+newspaper {GDM_STRING www.avgi.gr}
+Intellitech_NERC_Descriptors {GDM_STRING {}}
+CRF_Tag {GDM_STRING {}}
+Intellitech_NERC_FlattenOverlappingNEs {GDM_STRING {}}
+domain {GDM_STRING unknown}
+Intellitech_NERC_Dissambiguator {GDM_STRING {}}
+title {GDM_STRING {Ανάπτυξη στην Ελλάδα βλέπει ο Μπαρόζο}}
+Intellitech_NERC_FilterWithContext {GDM_STRING {}}
+TransformAnnotatedData {GDM_STRING {}}
+quick_domain {GDM_STRING_SET {}}
+{Document Handler} {GDM_STRING {Simple: Import Clean Text}}
+HBrill {GDM_STRING {}}
+date {GDM_STRING {08.03.2014    , 13:39}}
+category {GDM_STRING Πολιτικη}
+Intellitech_NERC_TagWithOpenData {GDM_STRING {}}
+
+Annotations::164
+0 token {{0 6}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJN}}}
+1 token {{7 13}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+2 token {{14 16}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+3 token {{17 23}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+4 token {{24 27}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+5 token {{28 35}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+6 token {{36 37}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+7 token {{38 46}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+8 token {{47 50}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+9 token {{51 61}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJF}}}
+10 token {{62 71}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNF}}}
+11 token {{71 72}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+12 token {{73 77}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+13 token {{78 85}} {{type {GDM_STRING GFW}} {pos {GDM_STRING FWT}}}
+14 token {{86 93}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+15 token {{93 94}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+16 token {{95 109}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBG}}}
+17 token {{110 113}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+18 token {{114 115}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+19 token {{116 120}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+20 token {{121 130}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+21 token {{131 141}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+22 token {{142 151}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+23 token {{152 155}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+24 token {{156 159}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+25 token {{160 167}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJM}}}
+26 token {{168 173}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+27 token {{174 176}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+28 token {{177 184}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBF}}}
+29 token {{185 190}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+30 token {{191 201}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+31 token {{202 210}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+32 token {{210 211}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+33 sentence {{0 211}} {{constituents {GDM_STRING_SET {0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32}}}}
+34 token {{212 213}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING (}}}
+35 token {{213 217}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJSM}}}
+36 token {{218 224}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+37 token {{225 227}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+38 token {{228 238}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+39 token {{239 242}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+40 token {{243 249}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+41 token {{250 253}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+42 token {{254 260}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+43 token {{261 263}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+44 token {{264 271}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPSM}}}
+45 token {{272 282}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+46 token {{283 286}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+47 token {{287 301}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+48 token {{301 302}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+49 token {{303 305}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+50 token {{306 314}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBFS}}}
+51 token {{315 322}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+52 token {{323 331}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+53 token {{331 332}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+54 sentence {{212 332}} {{constituents {GDM_STRING_SET {34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53}}}}
+55 token {{333 336}} {{type {GDM_STRING GFW}} {pos {GDM_STRING RB}}}
+56 token {{336 337}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+57 token {{338 345}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+58 token {{346 356}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+59 token {{357 366}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+60 token {{367 370}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+61 token {{371 374}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+62 token {{375 382}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJM}}}
+63 token {{383 388}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+64 token {{389 391}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+65 token {{392 399}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBF}}}
+66 token {{400 405}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+67 token {{406 416}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+68 token {{417 425}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+69 token {{425 426}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+70 token {{426 427}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+71 token {{428 432}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+72 token {{433 434}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+73 token {{435 437}} {{type {GDM_STRING ABBREV}} {pos {GDM_STRING AB}}}
+74 token {{438 445}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+75 token {{446 449}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+76 token {{450 452}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+77 token {{453 457}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+78 token {{458 461}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+79 token {{462 465}} {{type {GDM_STRING SPECIAL}} {pos {GDM_STRING CD}}}
+80 token {{466 476}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJF}}}
+81 token {{477 486}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNF}}}
+82 token {{487 494}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNF}}}
+83 token {{495 498}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+84 token {{499 510}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNSF}}}
+85 token {{511 514}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+86 token {{515 518}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+87 token {{519 525}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNSF}}}
+88 token {{525 526}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+89 token {{527 530}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+90 token {{531 547}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+91 token {{548 552}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+92 token {{553 558}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+93 token {{558 559}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+94 sentence {{333 559}} {{constituents {GDM_STRING_SET {55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93}}}}
+95 token {{560 566}} {{type {GDM_STRING GFW}} {pos {GDM_STRING VBD}}}
+96 token {{567 573}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+97 token {{574 577}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+98 token {{578 579}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+99 token {{580 587}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+100 token {{588 601}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+101 token {{602 605}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+102 token {{606 613}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}} {descriptor {GDM_STRING PFN}}}
+103 token {{614 618}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+104 token {{618 619}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+105 token {{620 625}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+106 token {{626 627}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+107 token {{628 640}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+108 token {{641 644}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+109 token {{645 653}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+110 token {{653 654}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+111 sentence {{560 654}} {{constituents {GDM_STRING_SET {95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110}}}}
+112 ne {{28 35}} {{type {GDM_STRING {location.city location.country location.region}}} {id {GDM_STRING {4230 4230 4230}}} {s {GDM_STRING w}}}
+113 ne {{243 249}} {{type {GDM_STRING {location.city location.country location.region}}} {id {GDM_STRING {4230 4230 4230}}} {s {GDM_STRING w}}}
+114 ne {{38 71}} {{type {GDM_STRING organisation.government.eu}} {id {GDM_STRING 827929}} {s {GDM_STRING w}}}
+115 ne {{73 93}} {{type {GDM_STRING {organisation.government.eu person.politician}}} {id {GDM_STRING {25942 25942}}} {s {GDM_STRING w}}}
+116 ne {{435 445}} {{type {GDM_STRING {organisation.government.eu person.politician}}} {id {GDM_STRING {25942 25942}}} {s {GDM_STRING w}}}
+117 ne {{553 558}} {{type {GDM_STRING {location.city location.suburb}}} {id {GDM_STRING {2310 2310}}} {s {GDM_STRING w}}}
+118 ne {{606 613}} {{type {GDM_STRING {location.continent location.country}}} {id {GDM_STRING {4113 4113}}} {s {GDM_STRING w}}}
+119 argument+polarity {{114 210} {73 93}} {{argument {CDM_SPAN {114 210}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING +2}} {entity1 {CDM_SPAN {73 93}}} {modified_by_user {GDM_STRING imktks@77.49.219.231}}}
+159 argument+polarity {{338 366} {435 445}} {{argument {CDM_SPAN {338 366}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING +3}} {entity1 {CDM_SPAN {435 445}}} {modified_by_user {GDM_STRING imktks@77.49.219.231}}}
+160 argument+polarity {{371 425} {435 445}} {{argument {CDM_SPAN {371 425}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING +3}} {entity1 {CDM_SPAN {435 445}}} {modified_by_user {GDM_STRING imktks@77.49.219.231}}}
+161 support_manual {{114 210}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+162 segment {{114 210}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 161}}}
+163 entity_manual {{73 93}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+164 segment {{73 93}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 163}}}
+165 argument_manual {{114 210} {73 93}} {{argument {GDM_STRING 161}} {argument_txt {GDM_STRING {η χώρα εμφανίζει πρωτογενές πλεόνασμα και τον επόμενο χρόνο θα υπάρξει ακόμη μεγαλύτερη ανάπτυξη}}} {claim {GDM_STRING {}}} {claim_txt {GDM_STRING {}}} {entity1 {GDM_STRING 163}} {entity1_txt {GDM_STRING {Ζοζέ Μανουέλ Μπαρόζο}}} {entity2 {GDM_STRING {}}} {entity2_txt {GDM_STRING {}}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+166 support_manual {{338 366}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+167 segment {{338 366}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 166}}}
+168 entity_manual {{435 445}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+169 segment {{435 445}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 168}}}
+170 argument_manual {{338 366} {435 445}} {{argument {GDM_STRING 166}} {argument_txt {GDM_STRING {υπάρχει πρωτογενές πλεόνασμα}}} {claim {GDM_STRING {}}} {claim_txt {GDM_STRING {}}} {entity1 {GDM_STRING 168}} {entity1_txt {GDM_STRING {Ζ. Μπαρόζο}}} {entity2 {GDM_STRING {}}} {entity2_txt {GDM_STRING {}}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+171 support_manual {{371 425}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+172 segment {{371 425}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 171}}}
+173 entity_manual {{435 445}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+174 segment {{435 445}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 173}}}
+175 argument_manual {{371 425} {435 445}} {{argument {GDM_STRING 171}} {argument_txt {GDM_STRING {τον επόμενο χρόνο θα υπάρξει ακόμη μεγαλύτερη ανάπτυξη}}} {claim {GDM_STRING {}}} {claim_txt {GDM_STRING {}}} {entity1 {GDM_STRING 173}} {entity1_txt {GDM_STRING {Ζ. Μπαρόζο}}} {entity2 {GDM_STRING {}}} {entity2_txt {GDM_STRING {}}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+176 lookup {{14 16}} {{type {GDM_STRING cue}}}
+177 lookup {{110 113}} {{type {GDM_STRING cue}}}
+178 lookup {{114 115}} {{type {GDM_STRING cue}}}
+179 lookup {{152 155}} {{type {GDM_STRING cue}}}
+180 lookup {{160 167}} {{type {GDM_STRING cue}}}
+181 lookup {{174 176}} {{type {GDM_STRING cue}}}
+182 lookup {{185 190}} {{type {GDM_STRING cue}}}
+183 lookup {{218 224}} {{type {GDM_STRING cue}}}
+184 lookup {{239 242}} {{type {GDM_STRING cue}}}
+185 lookup {{250 253}} {{type {GDM_STRING cue}}}
+186 lookup {{254 260}} {{type {GDM_STRING cue}}}
+187 lookup {{283 286}} {{type {GDM_STRING cue}}}
+188 lookup {{303 305}} {{type {GDM_STRING cue}}}
+189 lookup {{367 370}} {{type {GDM_STRING cue}}}
+190 lookup {{375 382}} {{type {GDM_STRING cue}}}
+191 lookup {{389 391}} {{type {GDM_STRING cue}}}
+192 lookup {{400 405}} {{type {GDM_STRING cue}}}
+193 lookup {{446 449}} {{type {GDM_STRING cue}}}
+194 lookup {{450 452}} {{type {GDM_STRING cue}}}
+195 lookup {{511 514}} {{type {GDM_STRING cue}}}
+196 lookup {{527 530}} {{type {GDM_STRING cue}}}
+197 lookup {{567 573}} {{type {GDM_STRING cue}}}
+198 lookup {{574 577}} {{type {GDM_STRING cue}}}
+199 lookup {{578 579}} {{type {GDM_STRING cue}}}
+200 lookup {{620 625}} {{type {GDM_STRING cue}}}
+201 lookup {{626 627}} {{type {GDM_STRING cue}}}
+202 lookup {{225 227}} {{type {GDM_STRING cue}}}
+
+RawData::654
+Θετικό βλέπει το μέλλον της Ελλάδας ο πρόεδρος της Ευρωπαϊκής Επιτροπής, Ζοζέ Μανουέλ Μπαρόζο, επισημαίνοντας πως η χώρα εμφανίζει πρωτογενές πλεόνασμα και τον επόμενο χρόνο θα υπάρξει ακόμη μεγαλύτερη ανάπτυξη.
+«Όλοι πρέπει να στηρίξουμε την Ελλάδα και εφόσον οι Έλληνες συνεχίσουν τις μεταρρυθμίσεις, θα πετύχουν βιώσιμη ανάπτυξη. Ήδη, υπάρχει πρωτογενές πλεόνασμα και τον επόμενο χρόνο θα υπάρξει ακόμη μεγαλύτερη ανάπτυξη», είπε ο Ζ. Μπαρόζο από το βήμα της 6ης Ευρωπαϊκής Διάσκεψης Κορυφής των Περιφερειών και των Πόλεων, που πραγματοποιείται στην Αθήνα.
+Τόνισε επίσης πως η απόλυτη προτεραιότητα της Ευρώπης τώρα, είναι η αντιμετώπιση της ανεργίας.
+## - End of File -

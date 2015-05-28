@@ -1,0 +1,119 @@
+#Ellogon: Document File
+# This is an Auto-generated File. Please DO NOT EDIT.
+# Ellogon CDM version 1.0 - August 1999 - September 2002
+#  This file is used by the "Ellogon" Text Engineering Platform,
+#  and contains an "Ellogon" CDM Document specification...
+#  File Encoding: utf-8
+Encoding::utf-8
+FileFormat::5
+Translation::crlf
+ExternalID::/home/petasis/stasinos/articles/116.avgi.html.txt
+ID::116.avgi.html.txt
+AnnotationMaxID::77
+Attributes::22
+Intellitech_NERC_QuickDomain {GDM_STRING {}}
+Intellitech_NERC_Filter {GDM_STRING {}}
+language_greek {GDM_STRING {}}
+Intellitech_NERC_TagWithGrammar {GDM_STRING {}}
+Gazetteer {GDM_STRING {}}
+HTokenizer {GDM_STRING {}}
+language {GDM_STRING hellenic}
+newspaper {GDM_STRING www.avgi.gr}
+Intellitech_NERC_Descriptors {GDM_STRING {}}
+CRF_Tag {GDM_STRING {}}
+Intellitech_NERC_FlattenOverlappingNEs {GDM_STRING {}}
+domain {GDM_STRING unknown}
+Intellitech_NERC_Dissambiguator {GDM_STRING {}}
+title {GDM_STRING {"Εκδικητικό" χιούμορ}}
+Intellitech_NERC_FilterWithContext {GDM_STRING {}}
+TransformAnnotatedData {GDM_STRING {}}
+quick_domain {GDM_STRING_SET {}}
+{Document Handler} {GDM_STRING {Simple: Import Clean Text}}
+HBrill {GDM_STRING {}}
+date {GDM_STRING 30.04.2014}
+category {GDM_STRING Στήλες}
+Intellitech_NERC_TagWithOpenData {GDM_STRING {}}
+
+Annotations::77
+0 token {{0 3}} {{type {GDM_STRING GFW}} {pos {GDM_STRING DDT}}}
+1 token {{4 8}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+2 token {{9 12}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+3 token {{13 19}} {{type {GDM_STRING ELW}} {pos {GDM_STRING FW}}}
+4 token {{20 25}} {{type {GDM_STRING ELW}} {pos {GDM_STRING FW}}}
+5 token {{26 31}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+6 token {{32 36}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+7 token {{37 38}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+8 token {{39 45}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+9 token {{46 49}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+10 token {{50 55}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+11 token {{56 58}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+12 token {{59 67}} {{type {GDM_STRING ELW}} {pos {GDM_STRING FW}}}
+13 token {{68 71}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+14 token {{72 74}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+15 token {{75 79}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+16 token {{80 84}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+17 token {{85 96}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+18 token {{97 101}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+19 token {{102 115}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+20 token {{115 116}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+21 sentence {{0 116}} {{constituents {GDM_STRING_SET {0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20}}}}
+22 token {{117 125}} {{type {GDM_STRING GFW}} {pos {GDM_STRING CD}}}
+23 token {{126 133}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+24 token {{134 146}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+25 token {{147 149}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+26 token {{150 156}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+27 token {{157 160}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+28 token {{160 163}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING SYM}}}
+29 token {{164 168}} {{type {GDM_STRING GLW}} {pos {GDM_STRING MD}}}
+30 token {{169 174}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+31 token {{175 177}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+32 token {{178 183}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+33 token {{184 187}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+34 token {{188 190}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+35 token {{191 197}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+36 token {{198 201}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+37 token {{202 206}} {{type {GDM_STRING GUW}} {pos {GDM_STRING AB}}}
+38 token {{207 213}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+39 token {{214 217}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+40 token {{218 226}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+41 token {{227 231}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+42 token {{232 237}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IP}}}
+43 token {{238 240}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+44 token {{241 248}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+45 token {{248 249}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING !}}}
+46 sentence {{117 249}} {{constituents {GDM_STRING_SET {22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45}}}}
+47 token {{250 254}} {{type {GDM_STRING GFW}} {pos {GDM_STRING CC}}}
+48 token {{255 257}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+49 token {{258 265}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+50 token {{266 276}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+51 token {{276 279}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING SYM}}}
+52 sentence {{250 279}} {{constituents {GDM_STRING_SET {47 48 49 50 51}}}}
+53 argument+polarity {{214 248} {164 206} {202 206}} {{argument {CDM_SPAN {214 248}}} {claim {CDM_SPAN {164 206}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING -1}} {entity1 {CDM_SPAN {202 206}}} {modified_by_user {GDM_STRING imktks@77.49.90.96}}}
+54 support_manual {{214 248}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+55 segment {{214 248}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 54}}}
+56 claim_manual {{164 206}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+57 segment {{164 206}} {{type {GDM_STRING claim}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 56}}}
+58 entity_manual {{202 206}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+59 segment {{202 206}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 58}}}
+60 argument_manual {{214 248} {164 206} {202 206}} {{argument {GDM_STRING 54}} {argument_txt {GDM_STRING {δεν πλήρωσαν ούτε αυτοί το χαράτσι}}} {claim {GDM_STRING 56}} {claim_txt {GDM_STRING {είχε κοπεί το ρεύμα από το κτήριο της ΓΓΠΣ}}} {entity1 {GDM_STRING 58}} {entity1_txt {GDM_STRING ΓΓΠΣ}} {entity2 {GDM_STRING {}}} {entity2_txt {GDM_STRING {}}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+61 lookup {{37 38}} {{type {GDM_STRING cue}}}
+62 lookup {{46 49}} {{type {GDM_STRING cue}}}
+63 lookup {{56 58}} {{type {GDM_STRING cue}}}
+64 lookup {{68 71}} {{type {GDM_STRING cue}}}
+65 lookup {{72 74}} {{type {GDM_STRING cue}}}
+66 lookup {{147 149}} {{type {GDM_STRING cue}}}
+67 lookup {{157 160}} {{type {GDM_STRING cue}}}
+68 lookup {{175 177}} {{type {GDM_STRING cue}}}
+69 lookup {{184 187}} {{type {GDM_STRING cue}}}
+70 lookup {{188 190}} {{type {GDM_STRING cue}}}
+71 lookup {{207 213}} {{type {GDM_STRING cue}}}
+72 lookup {{214 217}} {{type {GDM_STRING cue}}}
+73 lookup {{227 231}} {{type {GDM_STRING cue}}}
+74 lookup {{238 240}} {{type {GDM_STRING cue}}}
+75 lookup {{250 254}} {{type {GDM_STRING cue}}}
+76 lookup {{255 257}} {{type {GDM_STRING cue}}}
+
+RawData::279
+Τον γύρο των social media έκανε χθες η είδηση πως έπεσε το taxisnet από το πρωί λόγω προβλήματος στην ηλεκτροδότηση. Χιλιάδες πολίτες αναπαρήγαγαν τη θεωρία ότι... είχε κοπεί το ρεύμα από το κτήριο της ΓΓΠΣ επειδή δεν πλήρωσαν ούτε αυτοί το χαράτσι!
+Όταν το χιούμορ εκδικείται...
+## - End of File -

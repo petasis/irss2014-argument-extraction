@@ -1,0 +1,679 @@
+#Ellogon: Document File
+# This is an Auto-generated File. Please DO NOT EDIT.
+# Ellogon CDM version 1.0 - August 1999 - September 2002
+#  This file is used by the "Ellogon" Text Engineering Platform,
+#  and contains an "Ellogon" CDM Document specification...
+#  File Encoding: utf-8
+Encoding::utf-8
+FileFormat::5
+Translation::crlf
+ExternalID::/home/petasis/stasinos/articles/1232.avgi.html.txt
+ID::1232.avgi.html.txt
+AnnotationMaxID::633
+Attributes::22
+Intellitech_NERC_QuickDomain {GDM_STRING {}}
+Intellitech_NERC_Filter {GDM_STRING {}}
+language_greek {GDM_STRING {}}
+Intellitech_NERC_TagWithGrammar {GDM_STRING {}}
+Gazetteer {GDM_STRING {}}
+HTokenizer {GDM_STRING {}}
+language {GDM_STRING hellenic}
+newspaper {GDM_STRING www.avgi.gr}
+Intellitech_NERC_Descriptors {GDM_STRING {}}
+CRF_Tag {GDM_STRING {}}
+Intellitech_NERC_FlattenOverlappingNEs {GDM_STRING {}}
+domain {GDM_STRING telecommunications}
+Intellitech_NERC_Dissambiguator {GDM_STRING {}}
+title {GDM_STRING {Άντρος Κυπριανού: "Η λύση του Κυπριακού με παραμονή στο Μνημόνιο θα είναι καταστροφική"}}
+Intellitech_NERC_FilterWithContext {GDM_STRING {}}
+TransformAnnotatedData {GDM_STRING {}}
+quick_domain {GDM_STRING_SET {political.party 1}}
+{Document Handler} {GDM_STRING {Simple: Import Clean Text}}
+HBrill {GDM_STRING {}}
+date {GDM_STRING 28.03.2014}
+category {GDM_STRING Διεθνη}
+Intellitech_NERC_TagWithOpenData {GDM_STRING {}}
+
+Annotations::632
+0 token {{0 1}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING (}}}
+1 token {{1 2}} {{type {GDM_STRING GUW}} {pos {GDM_STRING DDT}}}
+2 token {{3 7}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+3 token {{8 11}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+4 token {{12 21}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJN}}}
+5 token {{22 24}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+6 token {{25 33}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+7 token {{34 37}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+8 token {{38 46}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+9 token {{47 49}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+10 token {{50 55}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBF}}}
+11 token {{56 68}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+12 token {{68 69}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+13 token {{70 76}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+14 token {{77 81}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+15 token {{82 83}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+16 token {{84 87}} {{type {GDM_STRING ABBREV}} {pos {GDM_STRING AB}}}
+17 token {{87 88}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+18 sentence {{0 88}} {{constituents {GDM_STRING_SET {0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17}}}}
+19 token {{89 92}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+20 token {{93 97}} {{type {GDM_STRING GUW}} {pos {GDM_STRING AB}}}
+21 token {{98 104}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+22 token {{105 114}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+23 token {{114 115}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+24 token {{116 120}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+25 token {{121 123}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+26 token {{124 133}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+27 token {{134 137}} {{type {GDM_STRING GLW}} {pos {GDM_STRING PP}}}
+28 token {{138 140}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+29 token {{141 144}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+30 token {{145 156}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+31 token {{157 163}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}} {descriptor {GDM_STRING PFN}}}
+32 token {{164 170}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+33 token {{170 171}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+34 token {{172 181}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBG}}}
+35 token {{182 185}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+36 token {{186 187}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+37 token {{188 197}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+38 token {{198 203}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+39 token {{204 211}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+40 token {{212 215}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+41 token {{216 223}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+42 token {{224 234}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+43 token {{234 235}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+44 sentence {{89 235}} {{constituents {GDM_STRING_SET {19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43}}}}
+45 token {{236 246}} {{type {GDM_STRING GFW}} {pos {GDM_STRING VBD}}}
+46 token {{247 250}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+47 token {{251 261}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+48 token {{262 264}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+49 token {{265 274}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+50 token {{275 282}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+51 token {{283 286}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+52 token {{287 295}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+53 token {{296 300}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+54 token {{301 310}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+55 token {{311 319}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+56 token {{320 322}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+57 token {{323 325}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+58 token {{326 336}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJSN}}}
+59 token {{337 338}} {{type {GDM_STRING GUW}} {pos {GDM_STRING DDT}}}
+60 token {{339 349}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+61 token {{350 353}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+62 token {{354 364}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+63 token {{365 368}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+64 token {{369 372}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+65 token {{373 380}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+66 token {{381 383}} {{type {GDM_STRING ABBREV}} {pos {GDM_STRING AB}}}
+67 token {{384 395}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+68 token {{396 401}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+69 token {{402 403}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING (}}}
+70 token {{403 408}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+71 token {{408 409}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+72 token {{410 414}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+73 token {{415 416}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+74 token {{417 420}} {{type {GDM_STRING ABBREV}} {pos {GDM_STRING AB}}}
+75 token {{420 421}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+76 sentence {{236 421}} {{constituents {GDM_STRING_SET {45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75}}}}
+77 token {{422 425}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+78 token {{426 430}} {{type {GDM_STRING GUW}} {pos {GDM_STRING AB}}}
+79 token {{430 431}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+80 token {{432 441}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBG}}}
+81 token {{442 445}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+82 token {{446 447}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING (}}}
+83 token {{447 450}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+84 token {{451 455}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IP}}}
+85 token {{456 458}} {{type {GDM_STRING GLW}} {pos {GDM_STRING PRP}}}
+86 token {{459 468}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+87 token {{468 469}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+88 token {{469 470}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+89 token {{471 474}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+90 token {{475 484}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+91 token {{485 491}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+92 token {{492 495}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+93 token {{496 497}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING (}}}
+94 token {{497 503}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+95 token {{504 506}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+96 token {{507 512}} {{type {GDM_STRING GLW}} {pos {GDM_STRING MD}}}
+97 token {{513 522}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+98 token {{523 531}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+99 token {{532 535}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+100 token {{536 539}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+101 token {{540 552}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+102 token {{552 553}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+103 token {{553 554}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+104 sentence {{422 554}} {{constituents {GDM_STRING_SET {77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103}}}}
+105 token {{555 559}} {{type {GDM_STRING GFW}} {pos {GDM_STRING CC}}}
+106 token {{560 570}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+107 token {{571 574}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+108 token {{575 585}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+109 token {{586 588}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+110 token {{589 598}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+111 token {{599 606}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+112 token {{607 610}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+113 token {{611 619}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+114 token {{620 624}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+115 token {{625 634}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+116 token {{635 643}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+117 token {{644 646}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+118 token {{647 649}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+119 token {{650 660}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJSN}}}
+120 token {{660 661}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+121 token {{662 669}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+122 token {{670 673}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+123 token {{674 675}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+124 token {{676 682}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+125 token {{683 690}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+126 token {{691 698}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+127 token {{699 704}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+128 token {{705 708}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+129 token {{709 711}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+130 token {{712 721}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+131 token {{722 723}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+132 token {{723 729}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+133 token {{730 733}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+134 token {{734 737}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+135 token {{738 741}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CD}}}
+136 token {{742 747}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+137 token {{748 751}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+138 token {{752 758}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+139 token {{759 762}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+140 token {{763 778}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+141 token {{779 781}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+142 token {{782 785}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CD}}}
+143 token {{786 788}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+144 token {{789 798}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+145 token {{799 802}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+146 token {{803 817}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPSM}}}
+147 token {{818 829}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+148 token {{829 830}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+149 token {{831 834}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+150 token {{835 843}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+151 token {{844 847}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+152 token {{848 856}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+153 token {{857 860}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+154 token {{861 865}} {{type {GDM_STRING GUW}} {pos {GDM_STRING AB}}}
+155 token {{866 868}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+156 token {{869 872}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+157 token {{873 874}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING (}}}
+158 token {{874 886}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+159 token {{886 887}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+160 token {{888 889}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+161 token {{890 900}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+162 token {{901 909}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+163 token {{909 910}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+164 token {{911 916}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+165 token {{917 926}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+166 token {{927 928}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+167 token {{928 931}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+168 token {{932 942}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJM}}}
+169 token {{943 947}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+170 token {{948 951}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+171 token {{952 958}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+172 token {{959 960}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+173 token {{961 968}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+174 token {{968 969}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+175 token {{969 970}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+176 sentence {{555 970}} {{constituents {GDM_STRING_SET {105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175}}}}
+177 token {{971 976}} {{type {GDM_STRING GFW}} {pos {GDM_STRING CD}}}
+178 token {{977 982}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+179 token {{983 985}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+180 token {{986 996}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+181 token {{997 1000}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+182 token {{1001 1008}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+183 token {{1009 1013}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+184 token {{1014 1018}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+185 token {{1019 1026}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+186 token {{1027 1030}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+187 token {{1031 1040}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJN}}}
+188 token {{1041 1048}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+189 token {{1049 1051}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+190 token {{1052 1055}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+191 token {{1056 1061}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+192 token {{1062 1071}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+193 token {{1072 1074}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+194 token {{1075 1082}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+195 token {{1083 1090}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+196 token {{1090 1091}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING :}}}
+197 sentence {{971 1091}} {{constituents {GDM_STRING_SET {177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196}}}}
+198 token {{1092 1094}} {{type {GDM_STRING MLW}} {pos {GDM_STRING DDT}}}
+199 token {{1095 1098}} {{type {GDM_STRING GUW}} {pos {GDM_STRING AB}}}
+200 token {{1098 1099}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+201 token {{1100 1101}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+202 token {{1102 1109}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+203 token {{1110 1113}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+204 token {{1114 1115}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+205 token {{1116 1121}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+206 token {{1121 1122}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING :}}}
+207 sentence {{1092 1122}} {{constituents {GDM_STRING_SET {198 199 200 201 202 203 204 205 206}}}}
+208 token {{1123 1125}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+209 token {{1126 1129}} {{type {GDM_STRING GUW}} {pos {GDM_STRING AB}}}
+210 token {{1130 1135}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+211 token {{1136 1139}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+212 token {{1140 1145}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CD}}}
+213 token {{1146 1150}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+214 token {{1151 1159}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+215 token {{1160 1164}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+216 token {{1165 1168}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+217 token {{1169 1177}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJN}}}
+218 token {{1178 1185}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBG}}}
+219 token {{1186 1195}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+220 token {{1196 1197}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+221 token {{1197 1209}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBPD}}}
+222 token {{1210 1216}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+223 token {{1217 1220}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+224 token {{1221 1224}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+225 token {{1225 1237}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+226 token {{1238 1241}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+227 token {{1242 1257}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+228 token {{1257 1258}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+229 token {{1258 1259}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+230 token {{1260 1264}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+231 token {{1265 1266}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+232 token {{1267 1273}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+233 token {{1274 1276}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+234 token {{1277 1281}} {{type {GDM_STRING GUW}} {pos {GDM_STRING AB}}}
+235 token {{1282 1287}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+236 token {{1288 1290}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+237 token {{1291 1296}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+238 token {{1297 1305}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJM}}}
+239 token {{1306 1308}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+240 token {{1309 1311}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+241 token {{1312 1321}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSN}}}
+242 token {{1322 1325}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+243 token {{1326 1329}} {{type {GDM_STRING GUW}} {pos {GDM_STRING AB}}}
+244 token {{1329 1330}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+245 sentence {{1123 1330}} {{constituents {GDM_STRING_SET {208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244}}}}
+246 token {{1331 1332}} {{type {GDM_STRING GUW}} {pos {GDM_STRING DDT}}}
+247 token {{1333 1340}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+248 token {{1341 1346}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+249 token {{1347 1356}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+250 token {{1357 1360}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+251 token {{1361 1373}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+252 token {{1374 1379}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+253 token {{1380 1387}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+254 token {{1388 1395}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+255 token {{1396 1399}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+256 token {{1400 1405}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+257 token {{1406 1407}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+258 token {{1408 1413}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+259 token {{1414 1417}} {{type {GDM_STRING GLW}} {pos {GDM_STRING PP}}}
+260 token {{1418 1422}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+261 token {{1423 1431}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+262 token {{1432 1443}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJM}}}
+263 token {{1443 1444}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+264 sentence {{1331 1444}} {{constituents {GDM_STRING_SET {246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263}}}}
+265 token {{1445 1448}} {{type {GDM_STRING GFW}} {pos {GDM_STRING CC}}}
+266 token {{1449 1454}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+267 token {{1455 1456}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+268 token {{1457 1462}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+269 token {{1462 1463}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+270 token {{1464 1467}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+271 token {{1468 1479}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJSN}}}
+272 token {{1480 1488}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+273 token {{1489 1492}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+274 token {{1493 1498}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+275 token {{1499 1501}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+276 token {{1502 1510}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJSF}}}
+277 token {{1511 1518}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+278 token {{1519 1522}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+279 token {{1523 1532}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJSN}}}
+280 token {{1533 1541}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+281 token {{1542 1545}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+282 token {{1546 1549}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+283 token {{1550 1558}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+284 token {{1559 1568}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+285 token {{1568 1569}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+286 sentence {{1445 1569}} {{constituents {GDM_STRING_SET {265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285}}}}
+287 token {{1570 1571}} {{type {GDM_STRING GUW}} {pos {GDM_STRING DDT}}}
+288 token {{1572 1575}} {{type {GDM_STRING ABBREV}} {pos {GDM_STRING AB}}}
+289 token {{1576 1585}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+290 token {{1586 1592}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+291 token {{1593 1596}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+292 token {{1597 1599}} {{type {GDM_STRING ABBREV}} {pos {GDM_STRING AB}}}
+293 token {{1600 1611}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+294 token {{1612 1614}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+295 token {{1615 1620}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+296 token {{1621 1630}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+297 token {{1631 1642}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJM}}}
+298 token {{1643 1648}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+299 token {{1649 1659}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+300 token {{1660 1663}} {{type {GDM_STRING GLW}} {pos {GDM_STRING PP}}}
+301 token {{1663 1664}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+302 token {{1665 1670}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+303 token {{1671 1682}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+304 token {{1683 1688}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+305 token {{1689 1695}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+306 token {{1696 1698}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+307 token {{1699 1703}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+308 token {{1704 1713}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+309 token {{1714 1717}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+310 token {{1718 1721}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+311 token {{1722 1730}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+312 token {{1731 1734}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+313 token {{1735 1739}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+314 token {{1740 1743}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+315 token {{1744 1747}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+316 token {{1748 1751}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+317 token {{1752 1761}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+318 token {{1761 1762}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+319 token {{1763 1766}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+320 token {{1767 1775}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+321 token {{1776 1779}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+322 token {{1780 1783}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+323 token {{1784 1791}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+324 token {{1792 1795}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+325 token {{1796 1800}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IP}}}
+326 token {{1801 1804}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+327 token {{1805 1814}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+328 token {{1815 1819}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+329 token {{1820 1828}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+330 token {{1829 1834}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+331 token {{1835 1839}} {{type {GDM_STRING GLW}} {pos {GDM_STRING INP}}}
+332 token {{1840 1850}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+333 token {{1850 1851}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+334 sentence {{1570 1851}} {{constituents {GDM_STRING_SET {287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333}}}}
+335 token {{1852 1853}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING (}}}
+336 token {{1853 1854}} {{type {GDM_STRING GUW}} {pos {GDM_STRING DDT}}}
+337 token {{1855 1859}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+338 token {{1860 1863}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+339 token {{1864 1873}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJN}}}
+340 token {{1874 1876}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+341 token {{1877 1885}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+342 token {{1886 1889}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+343 token {{1890 1898}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+344 token {{1899 1901}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+345 token {{1902 1907}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBF}}}
+346 token {{1908 1920}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+347 token {{1920 1921}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+348 token {{1922 1926}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+349 token {{1927 1930}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+350 token {{1931 1938}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+351 token {{1939 1942}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+352 token {{1943 1945}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+353 token {{1946 1951}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+354 token {{1952 1955}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+355 token {{1956 1965}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+356 token {{1966 1968}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+357 token {{1969 1975}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+358 token {{1976 1978}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+359 token {{1979 1988}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+360 token {{1988 1989}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+361 token {{1990 1992}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+362 token {{1993 1999}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+363 token {{2000 2004}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+364 token {{2005 2008}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+365 token {{2009 2013}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+366 token {{2014 2023}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+367 token {{2023 2024}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+368 token {{2025 2030}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+369 token {{2031 2033}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+370 token {{2034 2038}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+371 token {{2039 2042}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+372 token {{2043 2048}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+373 token {{2049 2057}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJN}}}
+374 token {{2058 2059}} {{type {GDM_STRING LPAR}} {pos {GDM_STRING (}}}
+375 token {{2059 2061}} {{type {GDM_STRING NUMBER_RANGE}} {pos {GDM_STRING CD}}}
+376 token {{2062 2066}} {{type {GDM_STRING ABBREV}} {pos {GDM_STRING AB}}}
+377 token {{2067 2071}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+378 token {{2071 2072}} {{type {GDM_STRING RPAR}} {pos {GDM_STRING )}}}
+379 token {{2073 2076}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+380 token {{2077 2083}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+381 token {{2084 2085}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+382 token {{2085 2095}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJF}}}
+383 token {{2096 2103}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+384 token {{2104 2113}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJN}}}
+385 token {{2114 2117}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+386 token {{2118 2127}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+387 token {{2127 2128}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+388 token {{2128 2129}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+389 sentence {{1852 2129}} {{constituents {GDM_STRING_SET {335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388}}}}
+390 token {{2130 2138}} {{type {GDM_STRING GFW}} {pos {GDM_STRING VBD}}}
+391 token {{2139 2153}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBG}}}
+392 token {{2154 2157}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+393 token {{2158 2164}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+394 token {{2165 2168}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+395 token {{2169 2181}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJM}}}
+396 token {{2182 2188}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+397 token {{2189 2195}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+398 token {{2196 2199}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+399 token {{2200 2201}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+400 token {{2202 2209}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+401 token {{2210 2211}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+402 token {{2211 2219}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+403 token {{2219 2220}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+404 token {{2221 2230}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+405 token {{2231 2237}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+406 token {{2238 2247}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+407 token {{2248 2251}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+408 token {{2252 2254}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+409 token {{2255 2271}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+410 token {{2271 2272}} {{type {GDM_STRING APOSTR}} {pos {GDM_STRING )}}}
+411 token {{2273 2276}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+412 token {{2277 2284}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+413 token {{2285 2292}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+414 token {{2292 2293}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+415 sentence {{2130 2293}} {{constituents {GDM_STRING_SET {390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414}}}}
+417 ne {{93 97}} {{type {GDM_STRING {organisation.political_party person.politician}}} {id {GDM_STRING {13351 13351}}} {s {GDM_STRING w}}}
+418 ne {{426 430}} {{type {GDM_STRING {organisation.political_party person.politician}}} {id {GDM_STRING {13351 13351}}} {s {GDM_STRING w}}}
+419 ne {{861 865}} {{type {GDM_STRING {organisation.political_party person.politician}}} {id {GDM_STRING {13351 13351}}} {s {GDM_STRING w}}}
+420 ne {{1277 1281}} {{type {GDM_STRING {organisation.political_party person.politician}}} {id {GDM_STRING {13351 13351}}} {s {GDM_STRING w}}}
+421 ne {{157 170}} {{type {GDM_STRING {organisation.government person.politician}}} {id {GDM_STRING {25347 25347}}} {s {GDM_STRING w}}}
+422 ne {{381 395}} {{type {GDM_STRING {organisation.government person.athlete person.politician}}} {id {GDM_STRING {26645 22641 26645}}} {s {GDM_STRING w}}}
+423 ne {{1597 1611}} {{type {GDM_STRING {organisation.government person.athlete person.politician}}} {id {GDM_STRING {26645 22641 26645}}} {s {GDM_STRING w}}}
+424 ne {{676 682}} {{type {GDM_STRING location.country}} {id {GDM_STRING 4245}} {s {GDM_STRING w}}}
+425 ne {{752 758}} {{type {GDM_STRING location.country}} {id {GDM_STRING 4245}} {s {GDM_STRING w}}}
+426 ne {{1493 1498}} {{type {GDM_STRING location.country}} {id {GDM_STRING 4245}} {s {GDM_STRING w}}}
+427 ne {{763 778}} {{type {GDM_STRING organisation.government.eu}} {id {GDM_STRING 483459}} {s {GDM_STRING w}}}
+428 ne {{961 968}} {{type {GDM_STRING location.country}} {id {GDM_STRING 4295}} {s {GDM_STRING w}}}
+429 ne {{1102 1109}} {{type {GDM_STRING location.country}} {id {GDM_STRING 4295}} {s {GDM_STRING w}}}
+430 ne {{1333 1340}} {{type {GDM_STRING location.country}} {id {GDM_STRING 4295}} {s {GDM_STRING w}}}
+431 ne {{1095 1098}} {{type {GDM_STRING {location.country location.county}}} {id {GDM_STRING {4167 4167}}} {s {GDM_STRING w}}}
+432 ne {{1126 1129}} {{type {GDM_STRING {location.country location.county}}} {id {GDM_STRING {4167 4167}}} {s {GDM_STRING w}}}
+433 ne {{1116 1121}} {{type {GDM_STRING location.country}} {id {GDM_STRING 660195}} {s {GDM_STRING w}}}
+434 ne {{1457 1462}} {{type {GDM_STRING location.country}} {id {GDM_STRING 660195}} {s {GDM_STRING w}}}
+435 ne {{1326 1329}} {{type {GDM_STRING organisation.organisation}} {id {GDM_STRING 13296}} {s {GDM_STRING w}}}
+436 ne {{1380 1395}} {{type {GDM_STRING person.politician}} {id {GDM_STRING 26785}} {s {GDM_STRING w}}}
+437 ne {{1572 1585}} {{type {GDM_STRING {person.athlete person.athlete person.politician}}} {id {GDM_STRING {20613 20826 20613}}} {s {GDM_STRING w}}}
+438 ne {{1820 1828}} {{type {GDM_STRING location.country}} {id {GDM_STRING 4276}} {s {GDM_STRING w}}}
+439 ne {{2255 2271}} {{type {GDM_STRING domain}} {id {GDM_STRING 923078}} {s {GDM_STRING w}}}
+440 argument+polarity {{917 969} {848 909} {12 21} {426 430} {98 114}} {{argument {CDM_SPAN {917 969}}} {claim {CDM_SPAN {848 909}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING -1}} {entity1 {CDM_SPAN {12 21}}} {entity2 {CDM_SPAN {426 430}}} {entity3 {CDM_SPAN {98 114}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+441 argument+polarity {{1347 1395} {1102 1109}} {{argument {CDM_SPAN {1347 1395}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING 0}} {entity1 {CDM_SPAN {1102 1109}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+442 argument+polarity {{1406 1443} {1102 1109}} {{argument {CDM_SPAN {1406 1443}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING 0}} {entity1 {CDM_SPAN {1102 1109}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+443 argument+polarity {{1136 1258} {1031 1040} {98 114} {1095 1098}} {{argument {CDM_SPAN {1136 1258}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING 0}} {entity1 {CDM_SPAN {1031 1040}}} {entity2 {CDM_SPAN {98 114}}} {entity3 {CDM_SPAN {1095 1098}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+444 argument+polarity {{1480 1568} {1457 1462}} {{argument {CDM_SPAN {1480 1568}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING +2}} {entity1 {CDM_SPAN {1457 1462}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+445 argument+polarity {{1671 1761} {1612 1663} {1572 1585} {1597 1611} {12 21}} {{argument {CDM_SPAN {1671 1761}}} {claim {CDM_SPAN {1612 1663}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING 0}} {entity1 {CDM_SPAN {1572 1585}}} {entity2 {CDM_SPAN {1597 1611}}} {entity3 {CDM_SPAN {12 21}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+446 argument+polarity {{2031 2072} {1990 2023} {98 114} {752 758} {1956 1965}} {{argument {CDM_SPAN {2031 2072}}} {claim {CDM_SPAN {1990 2023}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING 0}} {entity1 {CDM_SPAN {98 114}}} {entity2 {CDM_SPAN {752 758}}} {entity3 {CDM_SPAN {1956 1965}}} {modified_by_user {GDM_STRING imktks@143.233.227.216}}}
+447 support_manual {{917 969}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+448 segment {{917 969}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 447}}}
+449 claim_manual {{848 909}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+450 segment {{848 909}} {{type {GDM_STRING claim}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 449}}}
+451 entity_manual {{12 21}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+452 segment {{12 21}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 451}}}
+453 entity_manual {{426 430}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+454 segment {{426 430}} {{type {GDM_STRING entity2}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 453}}}
+455 entity_manual {{98 114}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+456 segment {{98 114}} {{type {GDM_STRING entity3}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 455}}}
+457 argument_manual {{917 969} {848 909} {12 21} {426 430} {98 114}} {{argument {GDM_STRING 447}} {argument_txt {GDM_STRING {γνωρίζουν "τον αντιφατικό ρόλο που παίζει η Τουρκία"}}} {claim {GDM_STRING 449}} {claim_txt {GDM_STRING {ανησυχία του ΑΚΕΛ να μην "εκτροχιαστεί" η προσπάθεια επίλυσης}}} {entity1 {GDM_STRING 451}} {entity1_txt {GDM_STRING Κυπριακού}} {entity2 {GDM_STRING 453}} {entity2_txt {GDM_STRING ΑΚΕΛ}} {entity3 {GDM_STRING 455}} {entity3_txt {GDM_STRING {Άντρος Κυπριανού}}}}
+458 support_manual {{1347 1395}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+459 segment {{1347 1395}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 458}}}
+460 entity_manual {{1102 1109}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+461 segment {{1102 1109}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 460}}}
+462 argument_manual {{1347 1395} {1102 1109}} {{argument {GDM_STRING 458}} {argument_txt {GDM_STRING {επηρεάζει τον Τουρκοκύπριο ηγέτη Ντερβίς Έρογλου}}} {claim {GDM_STRING {}}} {claim_txt {GDM_STRING {}}} {entity1 {GDM_STRING 460}} {entity1_txt {GDM_STRING Τουρκία}} {entity2 {GDM_STRING {}}} {entity2_txt {GDM_STRING {}}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+463 support_manual {{1406 1443}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+464 segment {{1406 1443}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 463}}}
+465 entity_manual {{1102 1109}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+466 segment {{1102 1109}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 465}}}
+467 argument_manual {{1406 1443} {1102 1109}} {{argument {GDM_STRING 463}} {argument_txt {GDM_STRING {ο ρόλος της ήταν ανέκαθεν καταλυτικός}}} {claim {GDM_STRING {}}} {claim_txt {GDM_STRING {}}} {entity1 {GDM_STRING 465}} {entity1_txt {GDM_STRING Τουρκία}} {entity2 {GDM_STRING {}}} {entity2_txt {GDM_STRING {}}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+468 support_manual {{1136 1258}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+469 segment {{1136 1258}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 468}}}
+470 entity_manual {{1031 1040}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+471 segment {{1031 1040}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 470}}}
+472 entity_manual {{98 114}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+473 segment {{98 114}} {{type {GDM_STRING entity2}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 472}}}
+474 entity_manual {{1095 1098}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+475 segment {{1095 1098}} {{type {GDM_STRING entity3}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 474}}}
+476 argument_manual {{1136 1258} {1031 1040} {98 114} {1095 1098}} {{argument {GDM_STRING 468}} {argument_txt {GDM_STRING {για πρώτη φορά ανέλαβαν ρόλο στο Κυπριακό έχοντας εκπονήσει "ολοκληρωμένο σχέδιο για την εκμετάλλευση των υδρογονανθράκων"}}} {claim {GDM_STRING {}}} {claim_txt {GDM_STRING {}}} {entity1 {GDM_STRING 470}} {entity1_txt {GDM_STRING Κυπριακού}} {entity2 {GDM_STRING 472}} {entity2_txt {GDM_STRING {Άντρος Κυπριανού}}} {entity3 {GDM_STRING 474}} {entity3_txt {GDM_STRING ΗΠΑ}}}
+477 support_manual {{1480 1568}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+478 segment {{1480 1568}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 477}}}
+479 entity_manual {{1457 1462}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+480 segment {{1457 1462}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 479}}}
+481 argument_manual {{1480 1568} {1457 1462}} {{argument {GDM_STRING 477}} {argument_txt {GDM_STRING {στηρίζει την Κύπρο σε δύσκολες στιγμές και τελευταία στηρίζει και την κυπριακή οικονομία}}} {claim {GDM_STRING {}}} {claim_txt {GDM_STRING {}}} {entity1 {GDM_STRING 479}} {entity1_txt {GDM_STRING Ρωσία}} {entity2 {GDM_STRING {}}} {entity2_txt {GDM_STRING {}}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+482 support_manual {{1671 1761}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+483 segment {{1671 1761}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 482}}}
+484 claim_manual {{1612 1663}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+485 segment {{1612 1663}} {{type {GDM_STRING claim}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 484}}}
+486 entity_manual {{1572 1585}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+487 segment {{1572 1585}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 486}}}
+488 entity_manual {{1597 1611}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+489 segment {{1597 1611}} {{type {GDM_STRING entity2}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 488}}}
+490 entity_manual {{12 21}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+491 segment {{12 21}} {{type {GDM_STRING entity3}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 490}}}
+492 argument_manual {{1671 1761} {1612 1663} {1572 1585} {1597 1611} {12 21}} {{argument {GDM_STRING 482}} {argument_txt {GDM_STRING {οποιαδήποτε λάθος κίνηση θα έχει συνέπειες για τον τουρισμό και αλλά και για την οικονομία}}} {claim {GDM_STRING 484}} {claim_txt {GDM_STRING {να είναι ιδιαίτερα προσεκτικός στους χειρισμούς του}}} {entity1 {GDM_STRING 486}} {entity1_txt {GDM_STRING {Αν. Κυπριανού}}} {entity2 {GDM_STRING 488}} {entity2_txt {GDM_STRING {Ν. Αναστασιάδη}}} {entity3 {GDM_STRING 490}} {entity3_txt {GDM_STRING Κυπριακού}}}
+493 support_manual {{2031 2072}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+494 segment {{2031 2072}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 493}}}
+495 claim_manual {{1990 2023}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+496 segment {{1990 2023}} {{type {GDM_STRING claim}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 495}}}
+497 entity_manual {{98 114}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+498 segment {{98 114}} {{type {GDM_STRING entity1}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 497}}}
+499 entity_manual {{752 758}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+500 segment {{752 758}} {{type {GDM_STRING entity2}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 499}}}
+501 entity_manual {{1956 1965}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+502 segment {{1956 1965}} {{type {GDM_STRING entity3}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 501}}}
+503 argument_manual {{2031 2072} {1990 2023} {98 114} {752 758} {1956 1965}} {{argument {GDM_STRING 493}} {argument_txt {GDM_STRING {το ποσό δεν είναι υπέρογκο (10 δισ. ευρώ)}}} {claim {GDM_STRING 495}} {claim_txt {GDM_STRING {να βρεθεί λύση από τους δανειστές}}} {entity1 {GDM_STRING 497}} {entity1_txt {GDM_STRING {Άντρος Κυπριανού}}} {entity2 {GDM_STRING 499}} {entity2_txt {GDM_STRING Κύπρου}} {entity3 {GDM_STRING 501}} {entity3_txt {GDM_STRING Μνημονίου}}}
+504 lookup {{1 2}} {{type {GDM_STRING cue}}}
+505 lookup {{22 24}} {{type {GDM_STRING cue}}}
+506 lookup {{34 37}} {{type {GDM_STRING cue}}}
+507 lookup {{47 49}} {{type {GDM_STRING cue}}}
+508 lookup {{50 55}} {{type {GDM_STRING cue}}}
+509 lookup {{116 120}} {{type {GDM_STRING cue}}}
+510 lookup {{121 123}} {{type {GDM_STRING cue}}}
+511 lookup {{138 140}} {{type {GDM_STRING cue}}}
+512 lookup {{172 181}} {{type {GDM_STRING cue}}}
+513 lookup {{182 185}} {{type {GDM_STRING cue}}}
+514 lookup {{186 187}} {{type {GDM_STRING cue}}}
+515 lookup {{198 203}} {{type {GDM_STRING cue}}}
+516 lookup {{212 215}} {{type {GDM_STRING cue}}}
+517 lookup {{247 250}} {{type {GDM_STRING cue}}}
+518 lookup {{262 264}} {{type {GDM_STRING cue}}}
+519 lookup {{283 286}} {{type {GDM_STRING cue}}}
+520 lookup {{296 300}} {{type {GDM_STRING cue}}}
+521 lookup {{320 322}} {{type {GDM_STRING cue}}}
+522 lookup {{337 338}} {{type {GDM_STRING cue}}}
+523 lookup {{365 368}} {{type {GDM_STRING cue}}}
+524 lookup {{396 401}} {{type {GDM_STRING cue}}}
+525 lookup {{432 441}} {{type {GDM_STRING cue}}}
+526 lookup {{442 445}} {{type {GDM_STRING cue}}}
+527 lookup {{451 455}} {{type {GDM_STRING cue}}}
+528 lookup {{456 458}} {{type {GDM_STRING cue}}}
+529 lookup {{471 474}} {{type {GDM_STRING cue}}}
+530 lookup {{485 491}} {{type {GDM_STRING cue}}}
+531 lookup {{492 495}} {{type {GDM_STRING cue}}}
+532 lookup {{497 503}} {{type {GDM_STRING cue}}}
+533 lookup {{532 535}} {{type {GDM_STRING cue}}}
+534 lookup {{555 559}} {{type {GDM_STRING cue}}}
+535 lookup {{571 574}} {{type {GDM_STRING cue}}}
+536 lookup {{586 588}} {{type {GDM_STRING cue}}}
+537 lookup {{607 610}} {{type {GDM_STRING cue}}}
+538 lookup {{620 624}} {{type {GDM_STRING cue}}}
+539 lookup {{644 646}} {{type {GDM_STRING cue}}}
+540 lookup {{670 673}} {{type {GDM_STRING cue}}}
+541 lookup {{674 675}} {{type {GDM_STRING cue}}}
+542 lookup {{699 704}} {{type {GDM_STRING cue}}}
+543 lookup {{705 708}} {{type {GDM_STRING cue}}}
+544 lookup {{730 733}} {{type {GDM_STRING cue}}}
+545 lookup {{734 737}} {{type {GDM_STRING cue}}}
+546 lookup {{759 762}} {{type {GDM_STRING cue}}}
+547 lookup {{799 802}} {{type {GDM_STRING cue}}}
+548 lookup {{831 834}} {{type {GDM_STRING cue}}}
+549 lookup {{844 847}} {{type {GDM_STRING cue}}}
+550 lookup {{869 872}} {{type {GDM_STRING cue}}}
+551 lookup {{888 889}} {{type {GDM_STRING cue}}}
+552 lookup {{911 916}} {{type {GDM_STRING cue}}}
+553 lookup {{948 951}} {{type {GDM_STRING cue}}}
+554 lookup {{959 960}} {{type {GDM_STRING cue}}}
+555 lookup {{977 982}} {{type {GDM_STRING cue}}}
+556 lookup {{997 1000}} {{type {GDM_STRING cue}}}
+557 lookup {{1049 1051}} {{type {GDM_STRING cue}}}
+558 lookup {{1072 1074}} {{type {GDM_STRING cue}}}
+559 lookup {{1100 1101}} {{type {GDM_STRING cue}}}
+560 lookup {{1110 1113}} {{type {GDM_STRING cue}}}
+561 lookup {{1114 1115}} {{type {GDM_STRING cue}}}
+562 lookup {{1130 1135}} {{type {GDM_STRING cue}}}
+563 lookup {{1136 1139}} {{type {GDM_STRING cue}}}
+564 lookup {{1165 1168}} {{type {GDM_STRING cue}}}
+565 lookup {{1217 1220}} {{type {GDM_STRING cue}}}
+566 lookup {{1221 1224}} {{type {GDM_STRING cue}}}
+567 lookup {{1274 1276}} {{type {GDM_STRING cue}}}
+568 lookup {{1291 1296}} {{type {GDM_STRING cue}}}
+569 lookup {{1306 1308}} {{type {GDM_STRING cue}}}
+570 lookup {{1331 1332}} {{type {GDM_STRING cue}}}
+571 lookup {{1341 1346}} {{type {GDM_STRING cue}}}
+572 lookup {{1396 1399}} {{type {GDM_STRING cue}}}
+573 lookup {{1400 1405}} {{type {GDM_STRING cue}}}
+574 lookup {{1445 1448}} {{type {GDM_STRING cue}}}
+575 lookup {{1449 1454}} {{type {GDM_STRING cue}}}
+576 lookup {{1455 1456}} {{type {GDM_STRING cue}}}
+577 lookup {{1464 1467}} {{type {GDM_STRING cue}}}
+578 lookup {{1489 1492}} {{type {GDM_STRING cue}}}
+579 lookup {{1499 1501}} {{type {GDM_STRING cue}}}
+580 lookup {{1519 1522}} {{type {GDM_STRING cue}}}
+581 lookup {{1542 1545}} {{type {GDM_STRING cue}}}
+582 lookup {{1546 1549}} {{type {GDM_STRING cue}}}
+583 lookup {{1615 1620}} {{type {GDM_STRING cue}}}
+584 lookup {{1665 1670}} {{type {GDM_STRING cue}}}
+585 lookup {{1696 1698}} {{type {GDM_STRING cue}}}
+586 lookup {{1714 1717}} {{type {GDM_STRING cue}}}
+587 lookup {{1731 1734}} {{type {GDM_STRING cue}}}
+588 lookup {{1735 1739}} {{type {GDM_STRING cue}}}
+589 lookup {{1740 1743}} {{type {GDM_STRING cue}}}
+590 lookup {{1744 1747}} {{type {GDM_STRING cue}}}
+591 lookup {{1748 1751}} {{type {GDM_STRING cue}}}
+592 lookup {{1763 1766}} {{type {GDM_STRING cue}}}
+593 lookup {{1776 1779}} {{type {GDM_STRING cue}}}
+594 lookup {{1780 1783}} {{type {GDM_STRING cue}}}
+595 lookup {{1792 1795}} {{type {GDM_STRING cue}}}
+596 lookup {{1796 1800}} {{type {GDM_STRING cue}}}
+597 lookup {{1801 1804}} {{type {GDM_STRING cue}}}
+598 lookup {{1805 1814}} {{type {GDM_STRING cue}}}
+599 lookup {{1829 1834}} {{type {GDM_STRING cue}}}
+600 lookup {{1835 1839}} {{type {GDM_STRING cue}}}
+601 lookup {{1853 1854}} {{type {GDM_STRING cue}}}
+602 lookup {{1874 1876}} {{type {GDM_STRING cue}}}
+603 lookup {{1886 1889}} {{type {GDM_STRING cue}}}
+604 lookup {{1899 1901}} {{type {GDM_STRING cue}}}
+605 lookup {{1902 1907}} {{type {GDM_STRING cue}}}
+606 lookup {{1927 1930}} {{type {GDM_STRING cue}}}
+607 lookup {{1939 1942}} {{type {GDM_STRING cue}}}
+608 lookup {{1943 1945}} {{type {GDM_STRING cue}}}
+609 lookup {{1966 1968}} {{type {GDM_STRING cue}}}
+610 lookup {{1969 1975}} {{type {GDM_STRING cue}}}
+611 lookup {{2005 2008}} {{type {GDM_STRING cue}}}
+612 lookup {{2025 2030}} {{type {GDM_STRING cue}}}
+613 lookup {{2031 2033}} {{type {GDM_STRING cue}}}
+614 lookup {{2039 2042}} {{type {GDM_STRING cue}}}
+615 lookup {{2043 2048}} {{type {GDM_STRING cue}}}
+616 lookup {{2073 2076}} {{type {GDM_STRING cue}}}
+617 lookup {{2114 2117}} {{type {GDM_STRING cue}}}
+618 lookup {{2154 2157}} {{type {GDM_STRING cue}}}
+619 lookup {{2165 2168}} {{type {GDM_STRING cue}}}
+620 lookup {{2196 2199}} {{type {GDM_STRING cue}}}
+621 lookup {{2200 2201}} {{type {GDM_STRING cue}}}
+622 lookup {{2248 2251}} {{type {GDM_STRING cue}}}
+623 lookup {{2273 2276}} {{type {GDM_STRING cue}}}
+624 lookup {{504 506}} {{type {GDM_STRING cue}}}
+625 lookup {{709 711}} {{type {GDM_STRING cue}}}
+626 lookup {{786 788}} {{type {GDM_STRING cue}}}
+627 lookup {{866 868}} {{type {GDM_STRING cue}}}
+628 lookup {{1288 1290}} {{type {GDM_STRING cue}}}
+629 lookup {{1612 1614}} {{type {GDM_STRING cue}}}
+630 lookup {{1621 1630}} {{type {GDM_STRING cue}}}
+631 lookup {{1976 1978}} {{type {GDM_STRING cue}}}
+632 lookup {{1990 1992}} {{type {GDM_STRING cue}}}
+
+RawData::2293
+"Η λύση του Κυπριακού με παραμονή στο Μνημόνιο θα είναι καταστροφική" τόνισε χθες ο γ.γ. του ΑΚΕΛ Άντρος Κυπριανού, μετά τη συνάντησή του με τον πρωθυπουργό Αντώνη Σαμαρά, εξηγώντας πως η κατάσταση είναι κρίσιμη και απαιτεί σοβαρότητα.
+Καταδίκασε τις συζητήσεις σε ευρωπαϊκό επίπεδο που εγείρουν θέμα απευθείας εμπορίου με τα Κατεχόμενα
+Η επανέναρξη των συνομιλιών από τον πρόεδρο Ν. Αναστασιάδη είναι "σωστή" είπε ο γ.γ. του ΑΚΕΛ, εξηγώντας πως "γι' αυτό τη στηρίξαμε", ενώ επισήμανε ωστόσο πως "έπρεπε να είχαν ξεκινήσει νωρίτερα και υπό προϋποθέσεις".
+Αφού καταδίκασε τις συζητήσεις σε ευρωπαϊκό επίπεδο που εγείρουν θέμα απευθείας εμπορίου με τα Κατεχόμενα, εξήγησε πως η Κύπρος δέχεται πιέσεις ακόμη και να αποδεχθεί "αίτημα από τις έξι έδρες της Κύπρου στο Ευρωκοινοβούλιο οι δύο να καλυφθούν από Τουρκοκύπριους παρατηρητές" και εξέφρασε την ανησυχία του ΑΚΕΛ να μην "εκτροχιαστεί" η προσπάθεια επίλυσης, καθώς γνωρίζουν "τον αντιφατικό ρόλο που παίζει η Τουρκία".
+Τρεις είναι οι παράγοντες που παίζουν ρόλο στην επίλυση του Κυπριακού σύμφωνα με τον Άντρο Κυπριανού σε διεθνές επίπεδο: oι ΗΠΑ, η Τουρκία και η Ρωσία: οι ΗΠΑ γιατί για πρώτη φορά ανέλαβαν ρόλο στο Κυπριακό έχοντας εκπονήσει "ολοκληρωμένο σχέδιο για την εκμετάλλευση των υδρογονανθράκων", ρόλο ο οποίος το ΑΚΕΛ θέλει να είναι σύμφωνος με τα ψηφίσματα του ΟΗΕ. Η Τουρκία γιατί επηρεάζει τον Τουρκοκύπριο ηγέτη Ντερβίς Έρογλου και γιατί ο ρόλος της ήταν ανέκαθεν καταλυτικός. Και τέλος η Ρωσία, που παραδοσιακά στηρίζει την Κύπρο σε δύσκολες στιγμές και τελευταία στηρίζει και την κυπριακή οικονομία. Ο Αν. Κυπριανού κάλεσε τον Ν. Αναστασιάδη να είναι ιδιαίτερα προσεκτικός στους χειρισμούς του, καθώς οποιαδήποτε λάθος κίνηση θα έχει συνέπειες για τον τουρισμό και αλλά και για την οικονομία, ενώ σημείωσε πως δεν δέχεται ότι αυτό που συμβαίνει στην Ουκρανία είναι κάτι πρωτόγνωρο.
+"Η λύση του Κυπριακού με παραμονή στο Μνημόνιο θα είναι καταστροφική" είπε και εξήγησε πως το βάρος του Μνημονίου θα πρέπει να αφαιρεθεί, να βρεθεί λύση από τους δανειστές, καθώς το ποσό δεν είναι υπέρογκο (10 δισ. ευρώ) και ζήτησε "ταυτόχρονη επίλυση Κυπριακού και Μνημονίου".
+Κατέληξε υποστηρίζοντας πως ολοένα και περισσότερος κόσμος βλέπει ότι η συνταγή "λιτότητα, περικοπές μισθών συντάξεων και οι ιδιωτικοποιήσεις" δεν βγάζουν πουθενά.
+## - End of File -

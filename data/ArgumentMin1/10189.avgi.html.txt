@@ -1,0 +1,178 @@
+#Ellogon: Document File
+# This is an Auto-generated File. Please DO NOT EDIT.
+# Ellogon CDM version 1.0 - August 1999 - September 2002
+#  This file is used by the "Ellogon" Text Engineering Platform,
+#  and contains an "Ellogon" CDM Document specification...
+#  File Encoding: utf-8
+Encoding::utf-8
+FileFormat::5
+Translation::crlf
+ExternalID::/home/petasis/stasinos/articles/10189.avgi.html.txt
+ID::10189.avgi.html.txt
+AnnotationMaxID::135
+Attributes::22
+Intellitech_NERC_QuickDomain {GDM_STRING {}}
+Intellitech_NERC_Filter {GDM_STRING {}}
+language_greek {GDM_STRING {}}
+Intellitech_NERC_TagWithGrammar {GDM_STRING {}}
+Gazetteer {GDM_STRING {}}
+HTokenizer {GDM_STRING {}}
+language {GDM_STRING hellenic}
+newspaper {GDM_STRING www.avgi.gr}
+Intellitech_NERC_Descriptors {GDM_STRING {}}
+CRF_Tag {GDM_STRING {}}
+Intellitech_NERC_FlattenOverlappingNEs {GDM_STRING {}}
+domain {GDM_STRING banking}
+Intellitech_NERC_Dissambiguator {GDM_STRING {}}
+title {GDM_STRING {Θεσσαλονίκη: Επίθεση με μολότοφ σε διμοιρία των ΜΑΤ}}
+Intellitech_NERC_FilterWithContext {GDM_STRING {}}
+TransformAnnotatedData {GDM_STRING {}}
+quick_domain {GDM_STRING_SET {}}
+{Document Handler} {GDM_STRING {Simple: Import Clean Text}}
+HBrill {GDM_STRING {}}
+date {GDM_STRING {13.04.2014    , 12:42}}
+category {GDM_STRING Ελλαδα}
+Intellitech_NERC_TagWithOpenData {GDM_STRING {}}
+
+Annotations::135
+0 token {{0 2}} {{type {GDM_STRING GFW}} {pos {GDM_STRING IN}}}
+1 token {{3 10}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+2 token {{11 13}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+3 token {{14 20}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+4 token {{21 28}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+5 token {{29 39}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+6 token {{40 44}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+7 token {{45 49}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+8 token {{50 54}} {{type {GDM_STRING TIME}} {pos {GDM_STRING CD}}}
+9 token {{55 62}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+10 token {{63 65}} {{type {GDM_STRING NUMBER_RANGE}} {pos {GDM_STRING CD}}}
+11 token {{66 74}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJSM}}}
+12 token {{74 75}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+13 token {{76 78}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+14 token {{79 88}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJSN}}}
+15 token {{89 91}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+16 token {{92 99}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSN}}}
+17 token {{100 104}} {{type {GDM_STRING GLW}} {pos {GDM_STRING PP}}}
+18 token {{104 105}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+19 token {{106 114}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+20 token {{115 119}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IDT}}}
+21 token {{120 129}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+22 token {{130 133}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+23 token {{134 137}} {{type {GDM_STRING GUW}} {pos {GDM_STRING AB}}}
+24 token {{137 138}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+25 token {{139 142}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+26 token {{143 150}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+27 token {{151 154}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+28 token {{155 159}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+29 token {{160 165}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJM}}}
+30 token {{166 175}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}} {descriptor {GDM_STRING PFN}}}
+31 token {{176 179}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+32 token {{180 189}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}} {descriptor {GDM_STRING PFN}}}
+33 token {{190 197}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPM}}}
+34 token {{198 201}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+35 token {{202 208}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+36 token {{209 212}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+37 token {{213 225}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+38 token {{225 226}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+39 sentence {{0 226}} {{constituents {GDM_STRING_SET {0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38}}}}
+40 token {{227 229}} {{type {GDM_STRING GFW}} {pos {GDM_STRING DDT}}}
+41 token {{230 241}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJSF}}}
+42 token {{242 250}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+43 token {{251 259}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+44 token {{260 264}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+45 token {{265 279}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSM}}}
+46 token {{279 280}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+47 token {{281 283}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+48 token {{284 290}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+49 token {{290 291}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+50 token {{292 299}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+51 token {{300 302}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+52 token {{303 306}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+53 token {{307 316}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+54 token {{316 317}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING ,}}}
+55 token {{318 326}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+56 token {{327 330}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+57 token {{331 335}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+58 token {{336 339}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+59 token {{340 353}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJN}}}
+60 token {{354 367}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNN}}}
+61 token {{368 380}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNPF}}}
+62 token {{381 384}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+63 token {{385 394}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+64 token {{395 397}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+65 token {{398 402}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+66 token {{403 410}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+67 token {{411 415}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+68 token {{416 419}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+69 token {{420 427}} {{type {GDM_STRING GFW}} {pos {GDM_STRING JJF}}}
+70 token {{428 434}} {{type {GDM_STRING GFW}} {pos {GDM_STRING NNF}}}
+71 token {{434 435}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+72 sentence {{227 435}} {{constituents {GDM_STRING_SET {40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71}}}}
+73 token {{436 440}} {{type {GDM_STRING GFW}} {pos {GDM_STRING IDT}}}
+74 token {{441 452}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNM}}}
+75 token {{453 466}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBD}}}
+76 token {{467 473}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+77 token {{474 477}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+78 token {{478 482}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNN}}}
+79 token {{482 483}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+80 sentence {{436 483}} {{constituents {GDM_STRING_SET {73 74 75 76 77 78 79}}}}
+81 token {{484 486}} {{type {GDM_STRING GFW}} {pos {GDM_STRING DDT}}}
+82 token {{487 494}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+83 token {{495 498}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+84 token {{499 509}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+85 token {{510 515}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+86 token {{516 518}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+87 token {{519 526}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNF}}}
+88 token {{527 530}} {{type {GDM_STRING GLW}} {pos {GDM_STRING CC}}}
+89 token {{531 538}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RB}}}
+90 token {{539 541}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+91 token {{542 545}} {{type {GDM_STRING GLW}} {pos {GDM_STRING DDT}}}
+92 token {{546 557}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSF}}}
+93 token {{558 563}} {{type {GDM_STRING GLW}} {pos {GDM_STRING MD}}}
+94 token {{564 569}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VB}}}
+95 token {{570 580}} {{type {GDM_STRING GLW}} {pos {GDM_STRING JJSF}}}
+96 token {{581 587}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSN}}}
+97 token {{588 591}} {{type {GDM_STRING GLW}} {pos {GDM_STRING WP}}}
+98 token {{592 600}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBS}}}
+99 token {{601 603}} {{type {GDM_STRING GLW}} {pos {GDM_STRING RP}}}
+100 token {{604 615}} {{type {GDM_STRING GLW}} {pos {GDM_STRING VBDS}}}
+101 token {{616 619}} {{type {GDM_STRING GLW}} {pos {GDM_STRING IN}}}
+102 token {{620 629}} {{type {GDM_STRING GLW}} {pos {GDM_STRING NNSN}}}
+103 token {{629 630}} {{type {GDM_STRING PUNC}} {pos {GDM_STRING .}}}
+104 sentence {{484 630}} {{constituents {GDM_STRING_SET {81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103}}}}
+105 ne {{180 197}} {{type {GDM_STRING person}} {s {GDM_STRING g}}}
+106 ne {{134 137}} {{type {GDM_STRING organisation.government}} {id {GDM_STRING 11704}} {s {GDM_STRING w}}}
+107 ne {{213 225}} {{type {GDM_STRING {location.city location.museum location.port location.suburb}}} {id {GDM_STRING {2727 2727 2727 2727}}} {s {GDM_STRING w}}}
+108 ne {{354 380}} {{type {GDM_STRING organisation.education}} {id {GDM_STRING 11301}} {s {GDM_STRING w}}}
+109 argument+polarity {{398 434} {436 482}} {{argument {CDM_SPAN {398 434}}} {claim {CDM_SPAN {436 482}}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {polarity {GDM_STRING 0}} {modified_by_user {GDM_STRING Oiwnos@83.212.105.132}}}
+110 support_manual {{398 434}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+111 segment {{398 434}} {{type {GDM_STRING support}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 110}}}
+112 claim_manual {{436 482}} {{modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}}}
+113 segment {{436 482}} {{type {GDM_STRING claim}} {modelid {GDM_STRING {977 Pol {Irss 2014 Pol}}}} {constituents {GDM_STRING_SET 112}}}
+114 argument_manual {{398 434} {436 482}} {{argument {GDM_STRING 110}} {argument_txt {GDM_STRING {ρίψη μολότοφ στην οδό Εθνικής Αμύνης}}} {claim {GDM_STRING 112}} {claim_txt {GDM_STRING {Ένας αστυνομικός τραυματίστηκε ελαφρά στο χέρι}}} {entity1 {GDM_STRING {}}} {entity1_txt {GDM_STRING {}}} {entity2 {GDM_STRING {}}} {entity2_txt {GDM_STRING {}}} {entity3 {GDM_STRING {}}} {entity3_txt {GDM_STRING {}}}}
+115 lookup {{0 2}} {{type {GDM_STRING cue}}}
+116 lookup {{11 13}} {{type {GDM_STRING cue}}}
+117 lookup {{76 78}} {{type {GDM_STRING cue}}}
+118 lookup {{139 142}} {{type {GDM_STRING cue}}}
+119 lookup {{176 179}} {{type {GDM_STRING cue}}}
+120 lookup {{198 208}} {{type {GDM_STRING cue}}}
+121 lookup {{300 302}} {{type {GDM_STRING cue}}}
+122 lookup {{303 306}} {{type {GDM_STRING cue}}}
+123 lookup {{327 330}} {{type {GDM_STRING cue}}}
+124 lookup {{381 384}} {{type {GDM_STRING cue}}}
+125 lookup {{395 397}} {{type {GDM_STRING cue}}}
+126 lookup {{436 440}} {{type {GDM_STRING cue}}}
+127 lookup {{474 477}} {{type {GDM_STRING cue}}}
+128 lookup {{510 515}} {{type {GDM_STRING cue}}}
+129 lookup {{516 518}} {{type {GDM_STRING cue}}}
+130 lookup {{527 530}} {{type {GDM_STRING cue}}}
+131 lookup {{539 541}} {{type {GDM_STRING cue}}}
+132 lookup {{542 545}} {{type {GDM_STRING cue}}}
+133 lookup {{588 591}} {{type {GDM_STRING cue}}}
+134 lookup {{601 603}} {{type {GDM_STRING cue}}}
+
+RawData::630
+Σε επίθεση με βόμβες μολότοφ προχώρησαν χθες στις 2:45 περίπου 15 άγνωστοι, με καλυμμένα τα πρόσωπά τους, εναντίον μιας διμοιρίας των ΜΑΤ, στη συμβολή των οδών Αγίου Δημητρίου και Δημητρίου Γούναρη στο κέντρο της Θεσσαλονίκης.
+Οι αστυνομικές δυνάμεις απώθησαν τους κουκουλοφόρους, οι οποίοι, σύμφωνα με την αστυνομία, εισήλθαν στο χώρο του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης και συνέχισαν τη ρίψη μολότοφ στην οδό Εθνικής Αμύνης. Ένας αστυνομικός τραυματίστηκε ελαφρά στο χέρι.
+Οι έρευνες της αστυνομίας είναι σε εξέλιξη και σύμφωνα με τις πληροφορίες έχουν γίνει προσαγωγές ατόμων που φέρονται να συμμετείχαν στα επεισόδια.
+## - End of File -
